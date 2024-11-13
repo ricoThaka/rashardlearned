@@ -1023,7 +1023,11 @@ iframe {
 
 .twoPanelSpread {
   margin: 0px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
   padding: 0px;
+  width: 100%;
   background: url(https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/810MATRiX.webp)
     center repeat;
 }
