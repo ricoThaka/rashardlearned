@@ -2,6 +2,14 @@
 layout: default
 mermaid: true
 ---
+
+
+![JpSS2](https://upload.wikimedia.org/wikipedia/commons/c/c7/JPSS-2_logo.svg) 
+>missionScavengerhunt
+
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/5PlA7xVCN59vR0YAnRVisM?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 # [Satellite Eyes on Typhoon Dolphin](https://earthobservatory.nasa.gov/images/85924/satellite-eyes-on-typhoon-dolphin)
 
 ![dolphin](https://eoimages.gsfc.nasa.gov/images/imagerecords/85000/85924/dolphin_cld_2015136.jpg)
