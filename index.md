@@ -4,6 +4,24 @@ mermaid: true
 ---
 
 
+# @nasa-jpl @usdisa @nasa @deptofdefense
+@whitehouse we need all computerusers including cellular to have a ethics discussion, culture shift... personal responsibility ![computer ethics](https://engineering.virginia.edu/sites/default/files/styles/square_xxsml/public/DeborahJohnson_headshot.webp?itok=-Jhm_zT_)
+[Computer ethics - Johnson, Deborah G., 1945-](https://archive.org/details/computerethics3r00debo) Written in clear, accessible prose, this text brings together philosophy, law, and technology to provide a rigorous, in-depth analysis of the ethical implications of widespread use of computer technology. The author proposes that the ethical issues surrounding computers are new species of traditional and recurrent moral issues.[Deborah G. Johnson - Professor Emeritus, Engineering and Society](https://engineering.virginia.edu/faculty/deborah-g-johnson)[GoogleBooks](https://books.google.com/books/about/Computer_Ethics.html?id=vYXmxXkecZMC) [InterNetArchive](https://archive.org/details/computerethics3r00debo) [MariahCarey - The Roof](https://youtu.be/sOApp3n-abA?si=Dq7uhTmnYYCr7yZP) [Computer Systems: Moral Entities but not Moral Agents.](https://nissenbaum.tech.cornell.edu/papers/computer_systems.pdf) 
+
+# 20000 Leagues Under The Sea: WalTdisNeY
+<video controls preload="none"   width="100%" height="auto" poster="https://i0.wp.com/duchessofdisneyland.com/wp-content/uploads/2015/04/20000leaguesundertheseaexhibit1.jpg">
+    
+<source src="https://archive.org/download/20000leaguesunderthesea_202003/20000%20Leagues%20Under%20the%20Sea.mp4" type="video/mp4" />
+         Download the
+        or
+<a href="https://archive.org/download/20000leaguesunderthesea_202003/20000%20Leagues%20Under%20the%20Sea.mp4">MP4</a>
+        video.
+</video> 
+
+[dutchess of disney land](https://duchessofdisneyland.com/park-history/20000-leagues-under-the-sea-exhibit/)
+
+[BubblegumpopFavs](https://archive.org/details/fav-bubblegumpop633?page=2)
+
 ![JpSS2](https://upload.wikimedia.org/wikipedia/commons/c/c7/JPSS-2_logo.svg) 
 >missionScavengerhunt
 
