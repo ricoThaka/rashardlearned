@@ -4,12 +4,9 @@
 @import url("https://fonts.googleapis.com/css2?family=Martian+Mono:wght@100..800&display=swap");
 
 html {
-
+font-size: 1rem;
   background-size: 100%;
-   font: normal 13px/18px 'Courier New', monospace, 'Martian Mono',Arial,  "Lucida Sans Unicode", verdana, lucida, sans-serif; 
-  
-    font-variation-settings:
-      "wdth" 100;
+
    
         margin: 0px;
       padding: 0px 0 20px 0px;
@@ -43,7 +40,10 @@ html {
 
 
 body {
-
+  font: normal 13px/18px 'Courier New', monospace, 'Martian Mono',Arial,  "Lucida Sans Unicode", verdana, lucida, sans-serif; 
+  
+  font-variation-settings:
+    "wdth" 100;
 
 }
 svg { width:100%;}
@@ -77,7 +77,7 @@ p:first-of-type {
 p::first-letter {
   font-size: 1.2em;
   font-weight: bold;
-    color: cyan;
+   
 }
 
 
@@ -254,6 +254,13 @@ background-size: 80.4px 80.4px; */
 }
 
 
+
+.animate.pop {
+  animation-duration: 2.5s;
+  animation-name: animate-pop;
+  animation-timing-function: cubic-bezier(.26, .53, .74, 1.48);
+}
+
 @keyframes animate-pop {
   0% {
     opacity: 0;
@@ -265,95 +272,12 @@ background-size: 80.4px 80.4px; */
     transform: scale(1, 1);
   }
 }
+
 svg { width:100%;}
 .jumpmenu {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 14px; background-color: #0dd9c4; color: #3df28b; border: #3df28b; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; font-weight: bold
   ;}
   
-p {
-margin-top:10px;
-margin-bottom:10px;
-display: block;
-text-align: left;
-width:100%;
-color: white;
-background: transparent
-url(https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/halfscreen-black.gif)
-center repeat;
-/* background: black; */
-/* background: linear-gradient(90deg, black 0%, rgba(38,38,38,0.7049194677871149) 35%, rgba(89,89,89,0.5900735294117647) 100%); */
-border-left: 1px solid #26a7de ;
-column-count: auto;
-column-fill: balance-all;
-word-break: break-all;
-hyphens: auto;
-margin: 20px;
-display:block;}
 
-p:first-of-type {
-   color:limegreen; 
-  }
-
-
-  a {
-    font-weight:400;
-    text-decoration:none;
-    color: #63c0f5;
-    text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
-  }
-  a,
-  a:hover,
-  a:visited a:hover {
-    color: #c9ff23;
-    padding: 0px;
-    
-  }
-  
-  
-  
-  a small {
-    font-size:11px;
-    color:#cffe14;
-    margin-top:-0.6em;
-    display:block;
-  }
-
-
-  .paginator {
-
-    width: 100vw;
-  
-  }
-  
-  .featured-post {
-    height: 400px;
-    margin: 0px;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    position: relative;
-  }
-  .featured-post h2 {
-    bottom: 0;
-    margin: 0;
-    padding: 10px;
-    position: absolute;
-  }
-  .featured-post h2 span {
-    display: inline-block;
-    color: white;
-    font: bold 24px/45px Helvetica, Sans-Serif;
-    letter-spacing: -1px;
-    background: rgb(0, 0, 0); /* fallback color */
-    background: rgba(0, 0, 0, 0.7);
-    padding: 10px;
-  }
-  .featured-post span a {
-    color: white;
-  }
-  .featured-post h1 {
-    margin: 10px;
-  }
-  
 
 /* special image selectors types etc */
 img[src*="workflows/ci.yaml/badge.svg"] {width: 100%;}
