@@ -24,10 +24,61 @@ I was able to get fresh reading materials thanks [![Twitter Follow](https://img.
 {% endhighlight %}
 
 
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <a href="https://hips.hearstapps.com/hmg-prod/images/elm080123fobcover-glorilla-digital-64b0537e94e9a.jpg?resize=768:*"><img src="https://hips.hearstapps.com/hmg-prod/images/elm080123fobcover-glorilla-digital-64b0537e94e9a.jpg?resize=768:*" alt="BUBBLEGUM_POP"> </a>
+
+      </div>
+    </div>
+    <div class='panelColumn'>
+
+      <a href="https://hips.hearstapps.com/hmg-prod/images/glorilla-q557-tha-elle-fj8a0065-fnl-64a6e8955c392.jpg?resize=980:*"><img src="https://hips.hearstapps.com/hmg-prod/images/glorilla-q557-tha-elle-fj8a0065-fnl-64a6e8955c392.jpg?resize=980:*" alt="BUBBLEGUM_POP"> </a>
+
+    </div>
+  </div>
+</div>
 <iframe src="https://archive.org/embed/screen-recording-2024-07-02-2.48.05-pm" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
+{% highlight css %}
 
+.oncall {
+  /*display: grid;
+  grid-gap: 5px;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr; */
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  height: 1em;
+}
+.oncall div:nth-child(1) {
+  background: #f2a922;
+}
+.oncall div:nth-child(2) {
+  background: #f28b0c;
+    animation: 1s ease-in 1s 1 slideInFromLeft;
+}
+.oncall div:nth-child(3) {
+  background: #f27405;
+}
+.oncall div:nth-child(4) {
+  background: #732e07;
 
+}
+.oncall div:nth-child(5) {
+  background: #bf3706;
+}
+
+.oncall div {
+  flex: 1 1 auto;
+  padding: 15px 15px;
+  animation-direction: alternate;
+    animation: 1s ease-out 0s 1 slideInFromLeft;
+
+}
+
+{% endhighlight %}
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7qwIiNFri8RklFl2hJt5JV?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
