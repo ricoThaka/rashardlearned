@@ -4,9 +4,10 @@ mermaid: true
 ---
 
 
-# @nasa-jpl @usdisa @nasa @deptofdefense
+# @nasa-jpl @usdisa @nasa @deptofdefense [RelatedTweet](https://github.com/ricoThaka/)
+[InTroduction: Why Computer Ethics - Deborah G. Johnson - PDF](https://web.cs.ucdavis.edu/~koehl/Teaching/ECS188/PDF_files/PHI320_Ch01.pdf)
 @whitehouse we need all computerusers including cellular to have a ethics discussion, culture shift... personal responsibility ![computer ethics](https://engineering.virginia.edu/sites/default/files/styles/square_xxsml/public/DeborahJohnson_headshot.webp?itok=-Jhm_zT_)
-[Computer ethics - Johnson, Deborah G., 1945-](https://archive.org/details/computerethics3r00debo) Written in clear, accessible prose, this text brings together philosophy, law, and technology to provide a rigorous, in-depth analysis of the ethical implications of widespread use of computer technology. The author proposes that the ethical issues surrounding computers are new species of traditional and recurrent moral issues.[Deborah G. Johnson - Professor Emeritus, Engineering and Society](https://engineering.virginia.edu/faculty/deborah-g-johnson)[GoogleBooks](https://books.google.com/books/about/Computer_Ethics.html?id=vYXmxXkecZMC) [InterNetArchive](https://archive.org/details/computerethics3r00debo) [MariahCarey - The Roof](https://youtu.be/sOApp3n-abA?si=Dq7uhTmnYYCr7yZP) [Computer Systems: Moral Entities but not Moral Agents.](https://nissenbaum.tech.cornell.edu/papers/computer_systems.pdf) 
+[Computer ethics - Johnson, Deborah G., 1945-](https://archive.org/details/computerethics3r00debo) Written in clear, accessible prose, this text brings together philosophy, law, and technology to provide a rigorous, in-depth analysis of the ethical implications of widespread use of computer technology. The author proposes that the ethical issues surrounding computers are new species of traditional and recurrent moral issues.[Deborah G. Johnson - Professor Emeritus, Engineering and Society](https://engineering.virginia.edu/faculty/deborah-g-johnson)[Deborah G. Johnson - GoogleScholar](https://scholar.google.com/citations?user=BW7aBmEAAAAJ&hl=en) [GoogleBooks](https://books.google.com/books/about/Computer_Ethics.html?id=vYXmxXkecZMC) [InterNetArchive](https://archive.org/details/computerethics3r00debo) [MariahCarey - The Roof](https://youtu.be/sOApp3n-abA?si=Dq7uhTmnYYCr7yZP) [Computer Systems: Moral Entities but not Moral Agents.](https://nissenbaum.tech.cornell.edu/papers/computer_systems.pdf) 
 
 # 20000 Leagues Under The Sea: WalTdisNeY
 <video controls preload="none"   width="100%" height="auto" poster="https://i0.wp.com/duchessofdisneyland.com/wp-content/uploads/2015/04/20000leaguesundertheseaexhibit1.jpg">
@@ -18,9 +19,11 @@ mermaid: true
         video.
 </video> 
 
-[dutchess of disney land](https://duchessofdisneyland.com/park-history/20000-leagues-under-the-sea-exhibit/)
+[Dutchess of disney land - 20000 Leagus Under The sea blogStory](https://duchessofdisneyland.com/park-history/20000-leagues-under-the-sea-exhibit/)
 
 [BubblegumpopFavs](https://archive.org/details/fav-bubblegumpop633?page=2)
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2TfBqG6KbHArJOmn1WtIBz?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ![JpSS2](https://upload.wikimedia.org/wikipedia/commons/c/c7/JPSS-2_logo.svg) 
 >missionScavengerhunt
