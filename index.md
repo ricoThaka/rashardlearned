@@ -3,7 +3,7 @@ layout: default
 mermaid: true
 ---
 
-
+https://open.spotify.com/track/4anqYZt4APNlFwQixpbdZR?si=95fb3b016b4a4d1e
 #  FlexiBleBoX
 I was able to get fresh reading materials thanks [![Twitter Follow](https://img.shields.io/badge/Social-LAPublicLibrary__-blue?style=social&logo=X)](https://twitter.com/LAPublicLibrary) [![Twitter Follow](https://img.shields.io/badge/Social-BiblioSzabo__-blue?style=social&logo=X)](https://twitter.com/BiblioSzabo) !
 
@@ -40,6 +40,30 @@ I was able to get fresh reading materials thanks [![Twitter Follow](https://img.
   </div>
 </div>
 <iframe src="https://archive.org/embed/screen-recording-2024-07-02-2.48.05-pm" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+
+{% highlight html %}
+
+<div class="oncall">
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+    </div>
+
+{% endhighlight %}
+
+<div class="oncall">
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+    </div>
+
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1154196106&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/nija-music" title="Nija" target="_blank" style="color: #cccccc; text-decoration: none;">Nija</a> · <a href="https://soundcloud.com/nija-music/on-call" title="On Call" target="_blank" style="color: #cccccc; text-decoration: none;">On Call</a></div>
 
 {% highlight css %}
 
