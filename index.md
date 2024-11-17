@@ -6,11 +6,7 @@ mermaid: true
 
 #  FlexiBleBoX
 I was able to get fresh reading materials thanks [![Twitter Follow](https://img.shields.io/badge/Social-LAPublicLibrary__-blue?style=social&logo=X)](https://twitter.com/LAPublicLibrary) [![Twitter Follow](https://img.shields.io/badge/Social-BiblioSzabo__-blue?style=social&logo=X)](https://twitter.com/BiblioSzabo) !
- <video width="320" height="240" controls>
-  <source src="movie.mp4" type="video/mp4">
-  <source src="movie.ogg" type="video/ogg">
-  Your browser does not support the video tag.
-</video>
+
 
 {% highlight css %}
 
@@ -28,39 +24,9 @@ I was able to get fresh reading materials thanks [![Twitter Follow](https://img.
 {% endhighlight %}
 
 
-<div class='twoPanelSpread'>
-  <div class='row'>
-    <div class='panelColumn'>
-      <div class='leftColumn'>
-        <a href="https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01327/ids/edr/browse/ncam/NLF_1327_0784746083_722ECM_N0620064NCAM02327_07_195J01_1200.jpg"><img src="https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01327/ids/edr/browse/ncam/NLF_1327_0784746083_722ECM_N0620064NCAM02327_07_195J01_1200.jpg" alt="Image Credit: NASA/JPL-Caltech"> </a>
-
-      </div>
-    </div>
- 
-  <div class='panelColumn'>
-    <div class='rightColumn'>
-      <a href="https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01327/ids/edr/browse/ncam/NLF_1327_0784746083_722ECM_N0620064NCAM02327_10_195J01_1200.jpg" alt="Image Credit: NASA/JPL-Caltech"><img src="https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01327/ids/edr/browse/ncam/NLF_1327_0784746083_722ECM_N0620064NCAM02327_10_195J01_1200.jpg" alt="Image Credit: NASA/JPL-Caltech"> </a>
-
-    </div>
-  </div>
-</div>
+<iframe src="https://archive.org/embed/screen-recording-2024-07-02-2.48.05-pm" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 
-<div class='twoPanelSpread'>
-  <div class='row'>
-    <div class='panelColumn'>
-      <div class='leftColumn'>
-        <a href="https://hips.hearstapps.com/hmg-prod/images/elm080123fobcover-glorilla-digital-64b0537e94e9a.jpg?resize=768:*"><img src="https://hips.hearstapps.com/hmg-prod/images/elm080123fobcover-glorilla-digital-64b0537e94e9a.jpg?resize=768:*" alt="BUBBLEGUM_POP"> </a>
-
-      </div>
-    </div>
-  <div class='panelColumn'>
-
-  <a href="https://hips.hearstapps.com/hmg-prod/images/glorilla-q557-tha-elle-fj8a0065-fnl-64a6e8955c392.jpg?resize=980:*"><img src="https://hips.hearstapps.com/hmg-prod/images/glorilla-q557-tha-elle-fj8a0065-fnl-64a6e8955c392.jpg?resize=980:*" alt="BUBBLEGUM_POP"> </a>
-
-   </div>
-  </div>
-</div>
 
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7qwIiNFri8RklFl2hJt5JV?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
