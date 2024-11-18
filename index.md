@@ -3,8 +3,16 @@ layout: default
 mermaid: true
 ---
 
+[![Twitter Follow](https://img.shields.io/badge/Social-Latto__-blue?style=social&logo=X)](https://twitter.com/Latto) this is awkward, worst case you know i was a bigtime jehovhas Witness and im talking to you because you look like erika, and you know there was like one of your tribes women [Shannon Clausell](https://www.youtube.com/watch?v=N4oMrTT_fZw) and in the real world since im not in a cube anymore theres a lot of you that dont come into Jehovahs Witnesses bc you are [True Mulattos](https://en.wikipedia.org/wiki/Los_Angeles_Pobladores) of Southern California [`Los Angeles Pobladores`](https://en.wikipedia.org/wiki/Talk:Los_Angeles_Pobladores)  . I like [Project Ako]() Coral and other kids [![Twitter Follow](https://img.shields.io/badge/Social-parksideaps__-blue?style=social&logo=X)](https://twitter.com/parksideaps) so if coral still breathing she will like this, if not if her friend rose Jenevive Daughter an there was Raven in Constancia townhouse by [T_L_C_OlD_HOUSE](https://www.youtube.com/watch?v=92gHq1s6G-c)
 
-
+<video controls preload="none"   width="100%" height="auto" poster="https://media.tenor.com/ew7jC3Fu9hIAAAAM/project-a-ko-ako.gif">
+    
+<source src="https://archive.org/download/ProjectAKo1/Project%20A%20Ko%201.mp4" type="video/mp4" />
+         Download the
+        or
+<a href="https://archive.org/download/ProjectAKo1/Project%20A%20Ko%201.mp4">MP4</a>
+        video.
+</video> 
 
 # [Where is SDO?](https://sdo.gsfc.nasa.gov/mission/moc.php)
 <video controls preload="none"   width="100%" height="auto" poster="https://sdo.gsfc.nasa.gov/assets/img/latest/latest_1024_0193.jpg">

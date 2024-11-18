@@ -1,7 +1,6 @@
 @import "normalize";
 @import "fonts";
 @import "rouge-base16-dark";
-@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Mono:ital,wght@0,300..700;1,300..700&display=swap');
 @import url("https://fonts.googleapis.com/css2?family=Martian+Mono:wght@100..800&display=swap");
 
 html {
@@ -41,7 +40,7 @@ font-size: 1rem;
 
 
 body {
-  font: bold 12px/18px "Red Hat Mono", 'Courier New', monospace, 'Martian Mono',Arial,  "Lucida Sans Unicode", verdana, lucida, sans-serif; 
+  font: normal 13px/18px 'Courier New', monospace, 'Martian Mono',Arial,  "Lucida Sans Unicode", verdana, lucida, sans-serif; 
 
   font-variation-settings:
     "wdth" 100;
@@ -81,6 +80,10 @@ p::first-letter {
 
 }
 
+::selection {
+  color: #aaff00;
+  background: #454b1b;
+}
 
   a {
     font-weight:400;
@@ -153,7 +156,6 @@ p::first-letter {
     font-size:0.8rem;
   }
   .featured-image img {
-    align: middle;
     margin: 5px auto 25px;
     display: block;
     max-width: 600px;
@@ -419,7 +421,7 @@ strong {
 }
 
 section img {
-  max-height: auto;
+  height: auto;
   max-width: 100%;
 
 
@@ -480,10 +482,7 @@ pre {
   center repeat;
   font: bold 14px/18px 'Martian Mono',Arial,  "Lucida Sans Unicode", verdana, lucida, sans-serif; 
   color:white;
-  code {
-    margin: 0px;
-    padding: 0px;
-  }
+
 }
 
 
@@ -519,9 +518,7 @@ td {
   border-bottom:1px solid #e5e5e5;
   border-right: 1px solid #ffcc00;
 
-  &:first-child {
-    border-left: 1px solid #ffcc00;
-  }
+
 }
 
 hr {
@@ -537,40 +534,7 @@ dt {
   font-weight:700;
 }
 
-header {
- /* padding: 25px 20px 40px 20px;
-  margin: 0;
-  position: fixed;
-  top: 0;
-  left:0;
-  right:0;
-  width: 100%;
-  text-align: center;
-  background: url(../images/background.png) #4276b6;
-  box-shadow: 1px 0px 2px rgba(0,0,0,.75);
-  z-index:99;
-  -webkit-font-smoothing:antialiased;
-  min-height: 76px; */
 
-  h1 {
-    font: 40px/48px 'Martian Mono','Copse', "Helvetica Neue", Helvetica, Arial, sans-serif;
-    color: #f3f3f3;
-    text-shadow: 0px 2px 0px #235796;
-    margin: 0px;
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
-    -o-text-overflow: ellipsis;
-    -ms-text-overflow: ellipsis;
-  }
-
-  p {
-    color: #d8d8d8;
-    text-shadow:rgba(#000, 0.2) 0 1px 0;
-    font-size: 18px;
-    margin: 0px;
-  }
-}
 
 section {
 
@@ -585,8 +549,6 @@ section {
     margin-left: auto;
     margin-top: -188px;
     line-height: 1.5;
-  margin-right: auto;
-  margin-left: auto; 	
   /* opera does not like 'margin:20px auto' */
   /* background: #666; */
   border: 1px solid white;
@@ -698,12 +660,14 @@ footer {
   }
 
   nav{
-    width: 230px;
+    width: 210px;
     position: fixed;
     top: 220px;
     left:50%;
-    margin-left:-580px;
+    margin-top: -188px;
+    margin-left:-540px;
     text-align: right;
+    word-break: break-word;
   }
 
   header, section, footer {
@@ -772,6 +736,8 @@ footer {
     p { display: none;}
   }
 
+  section { padding: 20px;}
+
   #banner {
     top: 80px;
 
@@ -786,7 +752,7 @@ footer {
   }
 
   section {
-    margin-top: 0px;
+    margin-top: -180px;
     margin-bottom: 0px;
     width: auto;
   }
