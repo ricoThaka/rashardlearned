@@ -325,6 +325,17 @@ h2 {
 
 
 
+h2 {
+  word-spacing: -.2ch;
+  font-kerning: auto;
+  letter-spacing: 2pt;
+  background: transparent
+   url(https://photojournal.jpl.nasa.gov/jpeg/PIA20753.jpg) center repeat;
+    color: white;     
+}
+
+
+
 h3 {
   
   text-shadow:
@@ -409,15 +420,14 @@ strong {
   color: #14e4ff;
 }
 
-.mermaid { width: 100%;}
 .wrapper {
- /* width:650px; */
+  width:650px;
   margin:0 auto;
   position:relative;
 
 }
 
-section img {
+#section img {
   max-height: auto;
   max-width: 100%;
 
@@ -571,7 +581,7 @@ header {
   }
 }
 
-section {
+#content {
      
     display : flex;
     flex-wrap: wrap;
@@ -589,7 +599,7 @@ section {
   /* opera does not like 'margin:20px auto' */
   /* background: #666; */
   border: 1px solid white;
-  background: url(https://landsat.gsfc.nasa.gov/wp-content/uploads/2013/12/San_Fran_new_432.jpg) no-repeat 0 0 fixed;
+  background: url(https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04329/opgs/edr/ncam/NLB_781808042EDR_F1091998NCAM00354M_.JPG) no-repeat 0 0 fixed;
   /* https://developer.mozilla.org/en-US/docs/Web/CSS/background-size */
   background-size: cover;
   
@@ -692,20 +702,15 @@ footer {
 @media print, screen and (max-width: 1060px) {
 
   div.wrapper {
-    width:100%;
+    width:auto;
     margin:0;
   }
 
   nav{
-    width: 230px;
-    position: fixed;
-    top: 220px;
-    left:50%;
-    margin-left:-580px;
-    text-align: right;
+    display: none;
   }
 
-  header, section, footer {
+  header, content, footer {
     float:none;
 
     h1 {
@@ -947,11 +952,7 @@ iframe {
 
 .twoPanelSpread {
   margin: 0px;
-  display: flex;
-  flex-direction: row;
-  flex-wrap: nowrap;
   padding: 0px;
-  width: 100%;
   background: url(https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/810MATRiX.webp)
     center repeat;
 }
@@ -2675,13 +2676,14 @@ padding: 0px;
 }
 .oncall div:nth-child(2) {
   background: #f28b0c;
-    animation: 1s ease-in 1s 1 slideInFromLeft;
+   
 }
 .oncall div:nth-child(3) {
   background: #f27405;
 }
 .oncall div:nth-child(4) {
   background: #732e07;
+  
 }
 .oncall div:nth-child(5) {
   background: #bf3706;
@@ -2691,9 +2693,9 @@ padding: 0px;
   flex: 0 1 200px;
   flex: 1 1 200px;
   padding: 0px;
-    animation: 1s ease-out 0s 1 slideInFromLeft;
+    /* animation: 1s ease-out 0s 1 slideInFromLeft;*/
+  
 }
-
 
 
 
@@ -2841,7 +2843,4 @@ flex: 0 1 200px;
 flex: 1 1 200px;
 padding: 0px;
 }
-
-
-
 
