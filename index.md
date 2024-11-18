@@ -43,18 +43,6 @@ I was able to get fresh reading materials thanks [![Twitter Follow](https://img.
 <iframe src="https://archive.org/embed/screen-recording-2024-07-02-2.48.05-pm" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 
-{% highlight html %}
-
-<div class="oncall">
-      <div></div>
-      <div></div>
-      <div></div>
-      <div></div>
-      <div></div>
-    </div>
-
-{% endhighlight %}
-
 <div class="oncall">
       <div></div>
       <div></div>
