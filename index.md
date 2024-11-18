@@ -3,6 +3,9 @@ layout: default
 mermaid: true
 ---
 
+
+
+
 # [Where is SDO?](https://sdo.gsfc.nasa.gov/mission/moc.php)
 <video controls preload="none"   width="100%" height="auto" poster="https://sdo.gsfc.nasa.gov/assets/img/latest/latest_1024_0193.jpg">
     
@@ -13,7 +16,10 @@ mermaid: true
         video.
 </video> 
 
+<iframe src="https://archive.org/embed/arcade_xmcota" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/693520531&color=%239e8a5a&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/joshua-calhoun-780374481" title="joshua calhoun" target="_blank" style="color: #cccccc; text-decoration: none;">joshua calhoun</a> · <a href="https://soundcloud.com/joshua-calhoun-780374481/goodie-mob-soul-food-full-album" title="Goodie Mob - Soul Food (Full Album)" target="_blank" style="color: #cccccc; text-decoration: none;">Goodie Mob - Soul Food (Full Album)</a></div>
+<iframe src="https://archive.org/embed/arcade_svc" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 #  FlexiBleBoX
 I was able to get fresh reading materials thanks [![Twitter Follow](https://img.shields.io/badge/Social-LAPublicLibrary__-blue?style=social&logo=X)](https://twitter.com/LAPublicLibrary) [![Twitter Follow](https://img.shields.io/badge/Social-BiblioSzabo__-blue?style=social&logo=X)](https://twitter.com/BiblioSzabo) !
@@ -52,7 +58,7 @@ I was able to get fresh reading materials thanks [![Twitter Follow](https://img.
 </div>
 <iframe src="https://archive.org/embed/screen-recording-2024-07-02-2.48.05-pm" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
-
+<iframe src="https://archive.org/embed/arcade_mshvsf" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 <div class="oncall">
       <div></div>
       <div></div>
