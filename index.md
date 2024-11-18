@@ -3,6 +3,22 @@ layout: default
 mermaid: true
 ---
 
+<div class="oncall">
+          <div></div>
+          <div></div>
+          <div></div>
+          <div></div>
+          <div></div>
+        </div>
+
+<div class="gullies">
+          <div></div>
+          <div></div>
+          <div></div>
+          <div></div>
+          <div></div>
+        </div>
+
 [![Twitter Follow](https://img.shields.io/badge/Social-Latto__-blue?style=social&logo=X)](https://twitter.com/Latto) this is awkward, worst case you know i was a bigtime jehovhas Witness and im talking to you because you look like erika, and you know there was like one of your tribes women [Shannon Clausell](https://www.youtube.com/watch?v=N4oMrTT_fZw) and in the real world since im not in a cube anymore theres a lot of you that dont come into Jehovahs Witnesses bc you are [True Mulattos](https://en.wikipedia.org/wiki/Los_Angeles_Pobladores) of Southern California [`Los Angeles Pobladores`](https://en.wikipedia.org/wiki/Talk:Los_Angeles_Pobladores)  . I like [Project Ako]() Coral and other kids [![Twitter Follow](https://img.shields.io/badge/Social-parksideaps__-blue?style=social&logo=X)](https://twitter.com/parksideaps) so if coral still breathing she will like this, if not if her friend rose Jenevive Daughter an there was Raven in Constancia townhouse by [T_L_C_OlD_HOUSE](https://www.youtube.com/watch?v=92gHq1s6G-c)
 
 <video controls preload="none"   width="100%" height="auto" poster="https://media.tenor.com/ew7jC3Fu9hIAAAAM/project-a-ko-ako.gif">
