@@ -3,6 +3,9 @@ layout: default
 mermaid: true
 ---
 
+
+
+
 <div class="oncall">
           <div></div>
           <div></div>
@@ -10,6 +13,27 @@ mermaid: true
           <div></div>
           <div></div>
         </div>
+
+# word-break
+The [word-break](https://x.com/RicoThaka/status/1858945542526775388) CSS property sets whether line breaks appear wherever the text would otherwise overflow its content box. My @github profile has a broken div, this could fix it @jekyllrb @blackgirlscode 
+
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <a href="https://pbs.twimg.com/media/GcxMc6bbcAIhh4b?format=jpg&name=large"><img src="https://pbs.twimg.com/media/GcxMc6bbcAIhh4b?format=jpg&name=large" alt="BUBBLEGUM_POP"> </a>
+
+   </div>
+   </div>
+   <div class='panelColumn'>
+
+      <a href="https://pbs.twimg.com/media/GcxMoYAbcAQBVA8?format=png&name=900x900"><img src="https://pbs.twimg.com/media/GcxMoYAbcAQBVA8?format=png&name=900x900" alt="BUBBLEGUM_POP"> </a>
+
+   </div>
+  </div>
+</div>
+
+[international Convention](https://x.com/RicoThaka/status/1858962935844139033) [SpaceForceDocs 4 G20](https://x.com/RicoThaka/status/1858949305434075381) 
 
 <div class="gullies">
           <div></div>
