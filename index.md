@@ -20,6 +20,7 @@ mermaid: true
         </div>
 
 
+![EC](https://europa.nasa.gov/rails/active_storage/disk/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9JYTJWNVNTSWhjVGRpZG1JMmFqQmpabTloYkRSa2RXOXNNemhrYkhFNGJEaHNPQVk2QmtWVU9oQmthWE53YjNOcGRHbHZia2tpWDJsdWJHbHVaVHNnWm1sc1pXNWhiV1U5SWtWVlVrOVFRVjlNVDBkUFgwaFBVa2xhVDA1VVFVd3VjRzVuSWpzZ1ptbHNaVzVoYldVcVBWVlVSaTA0SnlkRlZWSlBVRUZmVEU5SFQxOUlUMUpKV2s5T1ZFRk1MbkJ1WndZN0JsUTZFV052Ym5SbGJuUmZkSGx3WlVraURtbHRZV2RsTDNCdVp3WTdCbFE2RVhObGNuWnBZMlZmYm1GdFpUb0tiRzlqWVd3PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9rZXkifX0=--7200d35655ddeb30f93ddb8e1876eca78e7bdee4/EUROPA_LOGO_HORIZONTAL.png)
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/13YyYNBofurxZCNYiFDibB?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
