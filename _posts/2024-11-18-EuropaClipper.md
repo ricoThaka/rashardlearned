@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: covidpost
 title:  "EuropaClipper"
 published: true
 image: Europa_Clipper.png
