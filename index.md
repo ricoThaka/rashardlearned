@@ -3,17 +3,8 @@ layout: default
 mermaid: true
 ---
 
-# VIDEO: LUNAR OCCULTATION 2020: 2020
-<video controls preload="none"  poster="https://svs.gsfc.nasa.gov/vis/a000000/a001300/a001374/a001374.00095_print.png">
-  
-<source src="https://epic.gsfc.nasa.gov/epic-galleries/2020/lunar_occultation/20201002lunartransitrear.mp4" />
-  
 
-  Sorry, your browser doesn't support embedded videos, but don't worry, you can
-  <a href="https://epic.gsfc.nasa.gov/epic-galleries/2020/lunar_occultation/20201002lunartransitrear.mp4">download it</a>
-  and watch it with your favorite video player!
-</video>
-
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/296704218&color=%23e1cbae&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/lapalux" title="Lapalux" target="_blank" style="color: #cccccc; text-decoration: none;">Lapalux</a> · <a href="https://soundcloud.com/lapalux/midnight-peelers-1" title="Midnight Peelers" target="_blank" style="color: #cccccc; text-decoration: none;">Midnight Peelers</a></div>
 
 # VIDEO: LUNAR OCCULTATION 2020: 2020
 <video controls preload="none"  poster="https://svs.gsfc.nasa.gov/vis/a000000/a001300/a001374/a001374.00095_print.png">
@@ -26,7 +17,9 @@ mermaid: true
   and watch it with your favorite video player!
 </video>
 
-https://epic.gsfc.nasa.gov/
+
+
+[https://epic.gsfc.nasa.gov/](https://epic.gsfc.nasa.gov/)
 
 [<img src="https://ia801301.us.archive.org/29/items/AILS_AC76-0564/AC76-0564.jpg" alt="" />](https://ia801301.us.archive.org/29/items/AILS_AC76-0564/AC76-0564.jpg)
 [BUBBLEGUMPOP633](https://archive.org/details/fav-bubblegumpop633) [thakaserika_selassie_kelly](https://archive.org/details/@thakaserika_selassie_kelly) [ThakaRasharD - FaVs](https://archive.org/details/fav-thakaserika_selassie_kelly) [Designing CSS Web pages](https://archive.org/details/isbn_9780735712638/mode/2up) [EarthObservatory](https://earthobservatory.nasa.gov/)
