@@ -4,7 +4,7 @@ mermaid: true
 ---
 
 
-
+[<img src="https://ia801301.us.archive.org/29/items/AILS_AC76-0564/AC76-0564.jpg" alt="" />](https://ia801301.us.archive.org/29/items/AILS_AC76-0564/AC76-0564.jpg)
 
 <div class="oncall">
           <div></div>
