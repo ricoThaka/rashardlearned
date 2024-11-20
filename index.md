@@ -2,6 +2,21 @@
 layout: default
 mermaid: true
 ---
+### Adding Tags to Jekyll Blog Posts
+[Simple](https://emmatheeng.github.io/projects/blog_setup/blog-tags.html) [Complex](https://www.untangled.dev/2020/06/02/tag-management-jekyll/)
+# Earth Rotation from Galileo Imagery: 600 x Real-Time
+>Released Tuesday, September 1, 1998 
+This animation is one in a series created to show an accurate representation of the Earth's rotation at different temporal resolutions. The animation is created from images taken by the [Galileo spacecraft](https://starchild.gsfc.nasa.gov/docs/StarChild/questions/question61.html) during a close pass of the Earth on December 11-12, 1990. The animations range from real-time, in which no rotation can be perceived . . . [Visualizations by: Horace Mitchell](https://svs.gsfc.nasa.gov/1374/)
+<video controls preload="none"  poster="https://svs.gsfc.nasa.gov/vis/a000000/a001300/a001374/a001374.00095_print.png">
+  
+<source src="https://svs.gsfc.nasa.gov/vis/a000000/a001300/a001374/a001374.webmhd.webm" />
+  
+
+  Sorry, your browser doesn't support embedded videos, but don't worry, you can
+  <a href="https://svs.gsfc.nasa.gov/vis/a000000/a001300/a001374/a001374.webmhd.webm">download it</a>
+  and watch it with your favorite video player!
+</video>
+
 
 {% for tag in site.tags %}
   <h3>{{ tag[0] }}</h3>
