@@ -2,6 +2,12 @@
 layout: default
 mermaid: true
 ---
+
+
+# Ella Mai Verified : 3
+@blackgirlscode, im not jumping ahead, but ella mai, is this music too personal for me to listen to ? am i at risk of being distracted ? 
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1898959435&color=%23ad7c50&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/itsellamai" title="Ella Mai" target="_blank" style="color: #cccccc; text-decoration: none;">Ella Mai</a> · <a href="https://soundcloud.com/itsellamai/sets/3-77254742" title="3" target="_blank" style="color: #cccccc; text-decoration: none;">3</a></div>
+
 ### Adding Tags to Jekyll Blog Posts
 [Simple](https://emmatheeng.github.io/projects/blog_setup/blog-tags.html) [Complex](https://www.untangled.dev/2020/06/02/tag-management-jekyll/)
 # Earth Rotation from Galileo Imagery: 600 x Real-Time
