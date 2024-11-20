@@ -2,6 +2,7 @@
 layout: covid
 title:  "EuropaClipper"
 published: true
+tags: jupiter europa 
 image: Europa_Clipper.png
 ---
 
