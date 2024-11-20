@@ -4,8 +4,29 @@ mermaid: true
 ---
 
 
+# Shot Clock:Ella Mai
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/509765250&color=%23c59792&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/itsellamai" title="Ella Mai" target="_blank" style="color: #cccccc; text-decoration: none;">Ella Mai</a> · <a href="https://soundcloud.com/itsellamai/shot-clock" title="Shot Clock" target="_blank" style="color: #cccccc; text-decoration: none;">Shot Clock</a></div>
+
 # Ella Mai Verified : 3
-@blackgirlscode, im not jumping ahead, but ella mai, is this music too personal for me to listen to ? am i at risk of being distracted ? 
+@blackgirlscode, im not jumping ahead, but ella mai, is this music too personal for me to listen to ? am i at risk of being distracted ? im moving to  Mozilla standard for multi item flex boxes as a base, prepare for a lot to change @nasa i was trying to get a new wife when erika left me and i dont communicate follow up well, so im also am alone socially bc i talked to too many girls and went on dates too an some came in my house. But they acrobats an would do ninja work to intergrate into my household, some of the lyrics in some of the songs by the sex servants of hollywood on break in atlanta mention a little girl and a guy that works 9-5 in some sort of modern setting. @nasa-jpl we super old an george jetson, but they dont know that 
+
+{% highlight css %}
+
+.box > * {
+  border: 2px solid rgb(96 139 168);
+  border-radius: 5px;
+  background-color: rgb(96 139 168 / 0.2);
+  width: 200px;
+}
+
+.box {
+  width: 500px;
+  border: 2px dotted rgb(96 139 168);
+  display: flex;
+  flex-wrap: wrap;
+}
+{% endhighlight %}
+
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1898959435&color=%23ad7c50&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/itsellamai" title="Ella Mai" target="_blank" style="color: #cccccc; text-decoration: none;">Ella Mai</a> · <a href="https://soundcloud.com/itsellamai/sets/3-77254742" title="3" target="_blank" style="color: #cccccc; text-decoration: none;">3</a></div>
 
 ### Adding Tags to Jekyll Blog Posts
