@@ -29,7 +29,7 @@ mermaid: true
 https://epic.gsfc.nasa.gov/
 
 [<img src="https://ia801301.us.archive.org/29/items/AILS_AC76-0564/AC76-0564.jpg" alt="" />](https://ia801301.us.archive.org/29/items/AILS_AC76-0564/AC76-0564.jpg)
-[BUBBLEGUMPOP633](https://archive.org/details/fav-bubblegumpop633) [thakaserika_selassie_kelly](https://archive.org/details/@thakaserika_selassie_kelly) [ThakaRasharD - FaVs](https://archive.org/details/fav-thakaserika_selassie_kelly) [Designing CSS Web pages](https://archive.org/details/isbn_9780735712638/mode/2up)
+[BUBBLEGUMPOP633](https://archive.org/details/fav-bubblegumpop633) [thakaserika_selassie_kelly](https://archive.org/details/@thakaserika_selassie_kelly) [ThakaRasharD - FaVs](https://archive.org/details/fav-thakaserika_selassie_kelly) [Designing CSS Web pages](https://archive.org/details/isbn_9780735712638/mode/2up) [EarthObservatory](https://earthobservatory.nasa.gov/)
 
 <div class="oncall">
           <div></div>
