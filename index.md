@@ -3,8 +3,33 @@ layout: default
 mermaid: true
 ---
 
+# VIDEO: LUNAR OCCULTATION 2020: 2020
+<video controls preload="none"  poster="https://svs.gsfc.nasa.gov/vis/a000000/a001300/a001374/a001374.00095_print.png">
+  
+<source src="https://epic.gsfc.nasa.gov/epic-galleries/2020/lunar_occultation/20201002lunartransitrear.mp4" />
+  
+
+  Sorry, your browser doesn't support embedded videos, but don't worry, you can
+  <a href="https://epic.gsfc.nasa.gov/epic-galleries/2020/lunar_occultation/20201002lunartransitrear.mp4">download it</a>
+  and watch it with your favorite video player!
+</video>
+
+
+# VIDEO: LUNAR OCCULTATION 2020: 2020
+<video controls preload="none"  poster="https://svs.gsfc.nasa.gov/vis/a000000/a001300/a001374/a001374.00095_print.png">
+  
+<source src="https://epic.gsfc.nasa.gov/epic-galleries/2020/lunar_occultation/20201002lunartransitrear.mp4" />
+  
+
+  Sorry, your browser doesn't support embedded videos, but don't worry, you can
+  <a href="https://epic.gsfc.nasa.gov/epic-galleries/2020/lunar_occultation/20201002lunartransitrear.mp4">download it</a>
+  and watch it with your favorite video player!
+</video>
+
+https://epic.gsfc.nasa.gov/
 
 [<img src="https://ia801301.us.archive.org/29/items/AILS_AC76-0564/AC76-0564.jpg" alt="" />](https://ia801301.us.archive.org/29/items/AILS_AC76-0564/AC76-0564.jpg)
+[BUBBLEGUMPOP633](https://archive.org/details/fav-bubblegumpop633) [thakaserika_selassie_kelly](https://archive.org/details/@thakaserika_selassie_kelly) [ThakaRasharD - FaVs](https://archive.org/details/fav-thakaserika_selassie_kelly) [Designing CSS Web pages](https://archive.org/details/isbn_9780735712638/mode/2up)
 
 <div class="oncall">
           <div></div>
