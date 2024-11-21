@@ -6,6 +6,31 @@ image: Mars_Perseverance_NLF_1318_0783952370_633ECM_N0612534NCAM13318_01_195J.pn
 ---
 
 
+# [MRO](https://www.jpl.nasa.gov/missions/mars-reconnaissance-orbiter-mro/) files to explore issues i wont ignore!
+[<img src="https://d2pn8kiwq2w21t.cloudfront.net/images/27-mission-current-MRO.height-700.png" alt="Mars Reconnaissance Orbiter" />](https://d2pn8kiwq2w21t.cloudfront.net/images/27-mission-current-MRO.height-700.png)
+
+[Gullies ?](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/DTM/PSP/ORB_003200_003299/PSP_003252_1425_PSP_003674_1425/ESP_024244_1425_RED_C_01_ORTHO.ab.jpg) [SpiralCrater?](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/DTM/PSP/ORB_002100_002199/PSP_002175_2210_PSP_001410_2210/DTEEC_002175_2210_001410_2210_A01.ab.jpg) no 
+
+[SpiralCrater on MArs](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/DTM/PSP/ORB_001900_001999/PSP_001981_1825_PSP_002258_1825/)
+
+[<img src="https://pbs.twimg.com/media/GcnxtdDacAAzr7k?format=jpg&name=large" alt="https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/DTM/PSP/ORB_001900_001999/PSP_001981_1825_PSP_002258_1825/PSP_002258_1825_RED_C_01_ORTHO.ab.jpg" />](https://pbs.twimg.com/media/GcnxtdDacAAzr7k?format=jpg&name=large)
+[<img src="https://raw.githubusercontent.com/ricoThaka/rashardlearned/refs/heads/master/assets/img/marscrater.png" alt="https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/DTM/PSP/ORB_001900_001999/PSP_001981_1825_PSP_002258_1825/PSP_002258_1825_RED_C_01_ORTHO.ab.jpg" />](https://raw.githubusercontent.com/ricoThaka/rashardlearned/refs/heads/master/assets/img/marscrater.png)
+![crater](https://pbs.twimg.com/media/GcnzFE-aoAAqbpq?format=jpg&name=large)
+
+### PSP_002175_2210_RED_C_01_ORTHO.ab.jpg
+[<img src="https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/DTM/PSP/ORB_002100_002199/PSP_002175_2210_PSP_001410_2210/PSP_002175_2210_RED_C_01_ORTHO.ab.jpg" alt="Mars Reconnaissance Orbiter" />](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/DTM/PSP/ORB_002100_002199/PSP_002175_2210_PSP_001410_2210/PSP_002175_2210_RED_C_01_ORTHO.ab.jpg)
+
+# FREQUENCY MODULATION - PART I - BASIC PRINCIPLES
+<video controls preload="none"  poster="https://i.ytimg.com/vi/AzvxefRDT84/hq720.jpg">
+  
+<source src="https://archive.org/download/gov.dod.dimoc.28398/gov.dod.dimoc.28398_512kb.mp4" />
+  
+
+  Sorry, your browser doesn't support embedded videos, but don't worry, you can
+  <a href="https://archive.org/download/gov.dod.dimoc.28398/gov.dod.dimoc.28398_512kb.mp4">download it</a>
+  and watch it with your favorite video player!
+</video>
+[ParkErSpaceProbe](https://eyes.nasa.gov/apps/solar-system/#/sc_parker_solar_probe?rate=1&time=2024-12-24T11:27:38.887+00:00)
 
 # Mars Reconnaissance Orbiter 
 >Jim Taylor, Dennis K. Lee, and Shervin Shambayati 
