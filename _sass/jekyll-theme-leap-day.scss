@@ -245,7 +245,8 @@ p::first-letter {
 
 h1 {
   font: bolder 14px/18px 'Martian Mono',Arial,  "Lucida Sans Unicode", verdana, lucida, sans-serif; 
-
+  word-break: break-all;
+  line-height: 1.3rem;
   font-size: 2em;
   color: white;
   text-shadow: rgba(255,255,255,1) 0px 0px 6px;

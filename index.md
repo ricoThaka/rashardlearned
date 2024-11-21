@@ -3,6 +3,17 @@ layout: default
 mermaid: true
 ---
 
+# FREQUENCY MODULATION - PART I - BASIC PRINCIPLES
+<video controls preload="none"  poster="https://i.ytimg.com/vi/AzvxefRDT84/hq720.jpg">
+  
+<source src="https://archive.org/download/gov.dod.dimoc.28398/gov.dod.dimoc.28398_512kb.mp4" />
+  
+
+  Sorry, your browser doesn't support embedded videos, but don't worry, you can
+  <a href="https://archive.org/download/gov.dod.dimoc.28398/gov.dod.dimoc.28398_512kb.mp4">download it</a>
+  and watch it with your favorite video player!
+</video>
+
 # Ella Mai Verified : 3
 @blackgirlscode, im not jumping ahead, but ella mai, is this music too personal for me to listen to ? am i at risk of being distracted ? im moving to  Mozilla standard for multi item flex boxes as a base, prepare for a lot to change @nasa i was trying to get a new wife when erika left me and i dont communicate follow up well, so im also am alone socially bc i talked to too many girls and went on dates too an some came in my house. But they acrobats an would do ninja work to intergrate into my household, some of the lyrics in some of the songs by the sex servants of hollywood on break in atlanta mention a little girl and a guy that works 9-5 in some sort of modern setting. @nasa-jpl we super old an [Jetsons](https://archive.org/details/jetson-complete), but they dont know that 
 
