@@ -3,6 +3,14 @@ layout: default
 mermaid: true
 ---
 
+[<img src="https://myripplerecords.com/wp-content/uploads/2023/03/reasonable-doubt-front.jpg" />](https://myripplerecords.com/wp-content/uploads/2023/03/reasonable-doubt-front.jpg)
+
+
+[Coming OF Age](https://archive.org/download/jay-z-reasonable-doubt/Reasonable%20Doubt/11-Coming%20Of%20Age%20%28Ft.%20Memphis%20Bleek%29.mp3) @nasa its a perfect plan to get out of "the ghetto" u just have to pick a career and watch out for criminality @blackgirlscode - @nasa-jpl
+# Jay-Z – Reasonable Doubt
+<iframe src="https://archive.org/embed/jay-z-reasonable-doubt" width="500" height="60" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+[<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmZgao8FfvZoxX7UnIcHqJUnwx-mUieK3Z7t80UwXeNtCLPs1GQn1pM_T3dSw4Ppw1TgibxGKRwcp0LKlunyBSaUwocfntyU9CbZqaugoShjStxk4D2xS8rJ_BkQIQPa1N54UHZkSJg0-e/s1600/Jay-Z+Reasonable+Doubt+Source+8-96.jpg" />](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmZgao8FfvZoxX7UnIcHqJUnwx-mUieK3Z7t80UwXeNtCLPs1GQn1pM_T3dSw4Ppw1TgibxGKRwcp0LKlunyBSaUwocfntyU9CbZqaugoShjStxk4D2xS8rJ_BkQIQPa1N54UHZkSJg0-e/s1600/Jay-Z+Reasonable+Doubt+Source+8-96.jpg)
 
 
 # Ella Mai Verified : 3
