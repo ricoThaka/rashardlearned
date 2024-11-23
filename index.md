@@ -12,7 +12,7 @@ NASA's Mars Perseverance rover acquired this image using its onboard Right Navig
 This image was acquired on Nov. 22, 2024 (Sol 1336) at the local mean solar time of 12:15:08.
 
 Image Credit: NASA/JPL-Caltech
-@caltech @whitehouse to kamala today mars pic 
+@caltech @whitehouse to kamala [today mars pic ](https://mars.nasa.gov/mars2020/multimedia/raw-images/NRM_1336_0785542273_300ECM_N0620634NCAM00324_03_1LUJ)
 [<img src="https://myripplerecords.com/wp-content/uploads/2023/03/reasonable-doubt-front.jpg" />](https://myripplerecords.com/wp-content/uploads/2023/03/reasonable-doubt-front.jpg)
 
 
