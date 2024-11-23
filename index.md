@@ -3,6 +3,16 @@ layout: default
 mermaid: true
 ---
 
+
+# Mars Perseverance Sol 1336: Right Navigation Camera (Navcam) 
+[<img src="https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01336/ids/edr/browse/ncam/NRM_1336_0785542273_300ECM_N0620634NCAM00324_03_1LUJ01_1200.jpg" alt="" />](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01336/ids/edr/browse/ncam/NRM_1336_0785542273_300ECM_N0620634NCAM00324_03_1LUJ01_1200.jpg)
+
+NASA's Mars Perseverance rover acquired this image using its onboard Right Navigation Camera (Navcam). The camera is located high on the rover's mast and aids in driving.
+
+This image was acquired on Nov. 22, 2024 (Sol 1336) at the local mean solar time of 12:15:08.
+
+Image Credit: NASA/JPL-Caltech
+@caltech @whitehouse to kamala today mars pic 
 [<img src="https://myripplerecords.com/wp-content/uploads/2023/03/reasonable-doubt-front.jpg" />](https://myripplerecords.com/wp-content/uploads/2023/03/reasonable-doubt-front.jpg)
 
 
