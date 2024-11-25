@@ -4,6 +4,30 @@ mermaid: true
 ---
 
 
+    
+<article class="paginator">
+  <a href="{{ site.github.url }}{{ post.url }}">
+    <div class="featured-post" {% if post.image %}style="background-image:url({{ site.github.url }}/assets/img/{{ post.image }})"{% endif %}>
+      <h2><span>{{ post.title }}</span></h2>
+    </div>
+  </a>
+</article>
+
+  {% endfor %}
+
+
+
+
+
+{% for tag in site.tags %}
+  <h3>{{ tag[0] }}</h3>
+  <ul>
+    {% for post in tag[1] %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+{% endfor %}
+
 # Mars Perseverance Sol 1336: Right Navigation Camera (Navcam) 
 [<img src="https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01336/ids/edr/browse/ncam/NRM_1336_0785542273_300ECM_N0620634NCAM00324_03_1LUJ01_1200.jpg" alt="" />](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01336/ids/edr/browse/ncam/NRM_1336_0785542273_300ECM_N0620634NCAM00324_03_1LUJ01_1200.jpg)
 
@@ -66,14 +90,7 @@ This animation is one in a series created to show an accurate representation of 
 </video>
 
 
-{% for tag in site.tags %}
-  <h3>{{ tag[0] }}</h3>
-  <ul>
-    {% for post in tag[1] %}
-      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
-{% endfor %}
+
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/296704218&color=%23e1cbae&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/lapalux" title="Lapalux" target="_blank" style="color: #cccccc; text-decoration: none;">Lapalux</a> · <a href="https://soundcloud.com/lapalux/midnight-peelers-1" title="Midnight Peelers" target="_blank" style="color: #cccccc; text-decoration: none;">Midnight Peelers</a></div>
 
@@ -346,18 +363,6 @@ Image Credit: [NASA/JPL-Caltech/ASU](https://mars.nasa.gov/mars2020/multimedia/r
 {% endraw %}
 
   {% for post in site.posts %}
-    
-<article class="paginator">
-  <a href="{{ site.github.url }}{{ post.url }}">
-    <div class="featured-post" {% if post.image %}style="background-image:url({{ site.github.url }}/assets/img/{{ post.image }})"{% endif %}>
-      <h2><span>{{ post.title }}</span></h2>
-    </div>
-  </a>
-</article>
-
-  {% endfor %}
-
-
 
 [JPL and the Space Age: Destination Moon](https://plus.nasa.gov/video/jpl-and-the-space-age-destination-moon/) @nasa-jpl i was watching it at the duratn hollywood library and when i was looking at my github page for sharig it shut off #sessionjacked [ucla: birthplace of the internet](https://conferences.ucla.edu/ucla-birthplace-of-the-internet/) [How to roll back Git code to a previous commit](https://www.techtarget.com/searchitoperations/answer/How-to-roll-back-Git-code-to-a-previous-commit#:~:text=Git%20revert%20example,see%20the%20current%20commit%20IDs.) [Jekyll Array](https://carpentries-incubator.github.io/jekyll-pages-novice/arrays/index.html)
 
