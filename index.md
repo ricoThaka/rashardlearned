@@ -4,6 +4,33 @@ mermaid: true
 ---
 
 
+# Martian polar ice caps
+
+<picture>
+  <source srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Martian_north_polar_cap.jpg/1024px-Martian_north_polar_cap.jpg" media="(orientation: portrait)" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Martian_north_polar_cap.jpg/1024px-Martian_north_polar_cap.jpg" alt="" />
+</picture>
+
+@esa [Water at Martian south pole](https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Water_at_Martian_south_pole)
+# <picture>: The Picture element
+@blackgirlscode @normani im really enjoying HTML5 there are so many new tags that add more networking support so images dont go down or are rendered correctly [ReadMore `<picture>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/picture) @mozilla how do i know im a healthy web developer @nasa-jpl ? THats as u know our man browser on campus
+
+{% highlight html %}
+
+<picture>
+  <source srcset="/media/cc0-images/surfer-240-200.jpg" media="(orientation: portrait)" />
+  <img src="/media/cc0-images/painted-hand-298-332.jpg" alt="" />
+</picture>
+
+
+[<picture srcset="/media/cc0-images/surfer-240-200.jpg" media="(orientation: portrait)"  <img src="/media/cc0-images/painted-hand-298-332.jpg" alt="" /> ]( <img src="/media/cc0-images/painted-hand-298-332.jpg" alt="" />)
+
+{% endhighlight %}
+
+
+
+
+
       {% for post in site.posts %}
 <article class="paginator">
   <a href="{{ site.github.url }}{{ post.url }}">

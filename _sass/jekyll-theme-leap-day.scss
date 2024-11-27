@@ -108,7 +108,29 @@ p::first-letter {
     display:block;
   }
 
-
+  figure {
+    border: thin #aaff00 solid;
+    display: flex;
+    flex-flow: column;
+    padding: 5px;
+    max-width: content;
+    margin: auto;
+    background: #454b1b50;
+  }
+  
+  img {
+    width: 100%;
+    max-height: auto;
+  }
+  
+  figcaption {
+    background-color: #22222250;
+    color: #fff;
+     font: bold 10px/18px 'Courier New', monospace, 'Martian Mono',Arial,  "Lucida Sans Unicode", verdana, lucida, sans-serif;
+    padding: 3px;
+    text-align: left;
+  }
+  
   .paginator {
 
     width: 100vw;

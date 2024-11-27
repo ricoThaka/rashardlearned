@@ -5,8 +5,53 @@ published: true
 image: Mars_Perseverance_NLF_1318_0783952370_633ECM_N0612534NCAM13318_01_195J.png
 ---
 
-
+# Chronology of discoveries of water on Mars
+To date, interplanetary spacecraft have provided abundant evidence of water on Mars, dating back to the Mariner 9 mission [Wiki](https://en.wikipedia.org/wiki/Chronology_of_discoveries_of_water_on_Mars)
 # [MRO](https://www.jpl.nasa.gov/missions/mars-reconnaissance-orbiter-mro/) files to explore issues i wont ignore!
+
+
+
+
+The planet Mars has two permanent polar ice caps of water ice and some dry ice (frozen carbon dioxide, CO2). Above kilometer-thick layers of water ice permafrost, slabs of dry ice are deposited during a pole's winter,[1][2] lying in continuous darkness, causing 25–30% of the atmosphere being deposited annually at either of the poles. When the poles are again exposed to sunlight, the frozen CO2 sublimes.[3] These seasonal actions transport large amounts of dust and water vapor, giving rise to Earth-like frost and large cirrus clouds. [Wiki](https://en.wikipedia.org/wiki/Martian_polar_ice_caps#cite_note-i893-1)
+
+<figure>
+<picture>
+  <source srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Martian_north_polar_cap.jpg/1024px-Martian_north_polar_cap.jpg" media="(orientation: portrait)" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Martian_north_polar_cap.jpg/1024px-Martian_north_polar_cap.jpg" alt="" />
+</picture>
+
+  <figcaption>MArtian North polar cap in 1999</figcaption>
+</figure>
+
+[The Mars Reconnaissance Orbiter SPICE Data Archive](https://naif.jpl.nasa.gov/pub/naif/pds/data/mro-m-spice-6-v1.0/mrosp_1000/aareadme.htm) 
+File Formats
+============
+
+   All text documents and other meta information files such as
+   descriptions, PDS object definitions and detached PDS labels are
+   stream format files, with a carriage return (ASCII 13) and a line
+   feed character (ASCII 10) at the end of the record.  This allows the
+   files to be read by MS-DOS/Windows, Unix and MacOS operating
+   systems.
+
+   The data files in this data set were prepared to be used under a
+   UNIX environment. Therefore all SPICE text kernel files are UNIX
+   text files, with a line feed character (ASCII 10) at the end of the
+   line, and all SPICE binary kernels files are UNIX binary files in
+   which bit pattern structures for double precision and integer
+   numbers follow the IEEE standard. While some of the data files on
+   this volume can be used 'as is', converting the files to binary or
+   text format native to the user's computer may be required. Refer to
+   the documentation provided with the SPICE Toolkit to find out
+   whether conversion is needed in each specific case.
+
+   NAIF provides a tool (BINGO) that can convert either binary or text
+   kernels from one format to another. This means that text files can
+   have their line terminator changed and binary files can be converted
+   to the native format of the platform of interest. For access to this
+   tool, see the reference to the NAIF utilities website in the file
+   ``/software/softinfo.txt''.
+
 [<img src="https://d2pn8kiwq2w21t.cloudfront.net/images/27-mission-current-MRO.height-700.png" alt="Mars Reconnaissance Orbiter" />](https://d2pn8kiwq2w21t.cloudfront.net/images/27-mission-current-MRO.height-700.png)
 
 [Gullies ?](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/DTM/PSP/ORB_003200_003299/PSP_003252_1425_PSP_003674_1425/ESP_024244_1425_RED_C_01_ORTHO.ab.jpg) [SpiralCrater?](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/DTM/PSP/ORB_002100_002199/PSP_002175_2210_PSP_001410_2210/DTEEC_002175_2210_001410_2210_A01.ab.jpg) no 
