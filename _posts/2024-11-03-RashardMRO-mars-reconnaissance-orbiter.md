@@ -8,8 +8,102 @@ image: Mars_Perseverance_NLF_1318_0783952370_633ECM_N0612534NCAM13318_01_195J.pn
 # Chronology of discoveries of water on Mars
 To date, interplanetary spacecraft have provided abundant evidence of water on Mars, dating back to the Mariner 9 mission [Wiki](https://en.wikipedia.org/wiki/Chronology_of_discoveries_of_water_on_Mars)
 # [MRO](https://www.jpl.nasa.gov/missions/mars-reconnaissance-orbiter-mro/) files to explore issues i wont ignore!
+    MISSION_OBJECTIVES_SUMMARY  = "
+
+  The driving theme of the Mars Exploration Program is to understand the
+  role of water on Mars and its implications for possible past or
+  current biological activity.  The Mars Reconnaissance Orbiter (MRO)
+  Project will pursue this 'Follow-the-Water' strategy by conducting
+  remote sensing observations that return sets of globally distributed
+  data that will:  1) advance our understanding of the current Mars
+  climate, the processes that have formed and modified the surface of
+  the planet, and the extent to which water has played a role in surface
+  processes; 2) identify sites of possible aqueous activity indicating
+  environments that may have been or are conducive to biological
+  activity; and 3) thus identify and characterize sites for future
+  landed missions. 
+  
+  The MRO payload is designed to conduct remote sensing science
+  observations, identify and characterize sites for future landers, and
+  provide critical telecom/navigation relay capability for follow-on
+  missions.  The mission will provide global, regional survey, and
+  targeted observations from a low 255 km by 320 km Mars orbit with a
+  3:00 P.M. local mean solar time (ascending node).  During the one
+  Martian year (687 Earth days) primary science phase, the orbiter will
+  acquire visual and near-infrared high-resolution images of the
+  planet's surface, monitor atmospheric weather and climate, and search
+  the upper crust for evidence of water.  After this science phase is
+  completed, the orbiter will provide telecommunications support for
+  spacecraft launched to Mars in the 2007 and 2009 opportunities.  The
+  primary mission will end on December 31, 2010, approximately 5.5 years
+  after launch.
 
 
+  Science Questions Addressed
+  ---------------------------
+
+    The MRO mission has the primary objective of placing a science orbiter
+    into Mars orbit to perform remote sensing investigations that will
+    characterize the surface, subsurface and atmosphere of the planet and
+    will identify potential landing sites for future missions.  The MRO
+    payload will conduct observations in many parts of the electromagnetic
+    spectrum, including ultraviolet and visible imaging, visible to
+    near-infrared imaging spectrometry, thermal infrared atmospheric
+    profiling, and radar subsurface sounding, at spatial resolutions
+    substantially better than any preceding Mars orbiter.  In pursuit of
+    its science objectives, the MRO mission will:
+
+    - Characterize Mars' seasonal cycles and diurnal variations of water,
+      dust, and carbon dioxide.
+    - Characterize Mars' global atmospheric structure, transport, and 
+      surface changes.
+    - Search sites for evidence of aqueous and/or hydrothermal activity.
+    - Observe and characterize the detailed stratigraphy, geologic 
+      structure, and composition of Mars surface features.
+    - Probe the near-surface Martian crust to detect subsurface structure, 
+      including layering and potential reservoirs of water and/or water ice.
+    - Characterize the Martian gravity field in greater detail relative to 
+      previous Mars missions to improve knowledge of the Martian crust and 
+      lithosphere and potentially of atmospheric mass variation.
+    - Identify and characterize numerous globally distributed landing sites 
+      with a high potential for scientific discovery by future missions.
+
+    In addition, MRO will provide critical telecommunications relay
+    capability for follow-on missions and will conduct, on a
+    non-interference basis with the primary mission science, telecom and
+    navigation demonstrations in support of future Mars Exploration
+    Program (MEP) activities.  Specifically, the MRO mission will:
+    
+    - Provide navigation and data relay support services to future MEP
+      missions.
+    - Demonstrate Optical Navigation techniques for high precision delivery 
+      of future landed missions.
+    - Perform an operational demonstration of high data rate Ka-band 
+      telecommunications and navigation services.
+
+    Designed to operate after launch for at least 5.4 years, the MRO
+    orbiter will use a new spacecraft bus design provided by Lockheed
+    Martin Space Systems Company, Space Exploration Systems Division in
+    Denver, Colorado.  The orbiter payload will consist of six science
+    instruments and three new engineering payload elements listed as
+    follows:
+
+    Science Instruments
+    - HiRISE, High Resolution Imaging Science Experiment 
+    - CRISM, Compact Reconnaissance Imaging Spectrometer for Mars
+    - MCS, Mars Climate Sounder
+    - MARCI, Mars Color Imager
+    - CTX, Context Camera
+    - SHARAD, Shallow (Subsurface) Radar
+    
+    Engineering Payloads
+    - Electra UHF communications and navigation package
+    - Optical Navigation (Camera) Experiment
+    - Ka Band Telecommunication Experiment
+    
+    To fulfill the mission science goals, seven scientific investigations
+    teams were selected by NASA.  
+[<img src="https://pbs.twimg.com/media/GdW1lOYasAAKhV1?format=png&name=small />](https://pbs.twimg.com/media/GdW1lOYasAAKhV1?format=png&name=small)
 
 
 The planet Mars has two permanent polar ice caps of water ice and some dry ice (frozen carbon dioxide, CO2). Above kilometer-thick layers of water ice permafrost, slabs of dry ice are deposited during a pole's winter,[1][2] lying in continuous darkness, causing 25–30% of the atmosphere being deposited annually at either of the poles. When the poles are again exposed to sunlight, the frozen CO2 sublimes.[3] These seasonal actions transport large amounts of dust and water vapor, giving rise to Earth-like frost and large cirrus clouds. [Wiki](https://en.wikipedia.org/wiki/Martian_polar_ice_caps#cite_note-i893-1)
