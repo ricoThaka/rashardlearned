@@ -2,7 +2,7 @@
 layout: post
 title:  "Mars2020 Today"
 published: true
-image: Mars_Perseverance_NLF_1318_0783952370_633ECM_N0612534NCAM13318_01_195J.png
+image: 8936_First_selfie_animation_1200.gif
 ---
 
 # Chronology of discoveries of water on Mars
