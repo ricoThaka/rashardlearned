@@ -3,8 +3,9 @@ layout: default
 mermaid: true
 ---
 
+{{ 'now' | date: "%Y" }}
 
-# Martian polar ice caps
+# Martian polar ice caps 
 
 <picture>
   <source srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Martian_north_polar_cap.jpg/1024px-Martian_north_polar_cap.jpg" media="(orientation: portrait)" />
