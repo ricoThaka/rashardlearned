@@ -1,5 +1,5 @@
 ---
-layout: covid
+layout: post
 title:  "EuropaClipper"
 published: true
 tags: jupiter europa 
