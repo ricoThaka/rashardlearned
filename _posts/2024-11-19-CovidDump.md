@@ -9,7 +9,8 @@ tags: covid
 
 
 # Johnny Mnemonic (1995)
-<video controls preload="none"  poster="https://photojournal.jpl.nasa.gov/jpeg/PIA26435.jpg">
+[imdb](https://www.imdb.com/title/tt0113481/)
+<video controls preload="none"  poster="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG5nNW11aHA4OXFscHIzN2JxdTg5ZGxyeWszZDhhbGJ3aHRtNzd3NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DIbzujHh2PCbm/giphy.webp">
 <source src="https://archive.org/download/johnny-mnemonic-1995/Johnny%20Mnemonic%20%281995%29.mp4" type="video/mp4">
   Sorry, your browser doesn't support embedded videos, but don't worry, you can
   <a href="https://photojournal.jpl.nasa.gov/archive/PIA26463.mp4">download it</a>
