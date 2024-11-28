@@ -31,6 +31,8 @@ mermaid: true
 
 {{ 'now' | date: "%Y" }}
 
+[HTML `<video>` Tag](https://www.w3schools.com/tags/tag_video.asp)
+
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/5J169iIjpxBuXzzpj0Lf9e?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 # Martian polar ice caps 
