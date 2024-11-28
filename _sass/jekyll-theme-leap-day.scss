@@ -69,11 +69,10 @@ word-break: break-all;
 hyphens: auto;
 margin: 20px;
 display:block;}
+
 p:first-of-type {
-  animation-duration: 3s;
-  animation-name: slidein;
-  color:white;
-}
+  color:#3df28b; 
+ }
 p::first-letter {
   font-size: 1.2em;
   font-weight: bold;
@@ -118,10 +117,9 @@ p::first-letter {
     background: #454b1b50;
   }
   
-  img {
-    width: 100%;
-    max-height: auto;
-  }
+  img {  max-height: 100%;
+    max-width: 100%;
+  display:block;} 
   
   figcaption {
     background-color: #22222250;

@@ -3,7 +3,35 @@ layout: default
 mermaid: true
 ---
 
+
+
+ {% for post in site.posts %}
+<article class="paginator">
+  <a href="{{ site.github.url }}{{ post.url }}">
+    <div class="featured-post" {% if post.image %}style="background-image:url({{ site.github.url }}/assets/img/{{ post.image }})"{% endif %}>
+      <h2><span>{{ post.title }}</span></h2>
+    </div>
+  </a>
+</article>
+
+  {% endfor %}
+
+
+
+
+
+{% for tag in site.tags %}
+  <h3>{{ tag[0] }}</h3>
+  <ul>
+    {% for post in tag[1] %}
+      <li><a href="{{ site.github.url }}{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+{% endfor %}
+
 {{ 'now' | date: "%Y" }}
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/5J169iIjpxBuXzzpj0Lf9e?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 # Martian polar ice caps 
 
@@ -27,34 +55,6 @@ mermaid: true
 [<picture srcset="/media/cc0-images/surfer-240-200.jpg" media="(orientation: portrait)"  <img src="/media/cc0-images/painted-hand-298-332.jpg" alt="" /> ]( <img src="/media/cc0-images/painted-hand-298-332.jpg" alt="" />)
 
 {% endhighlight %}
-
-
-
-
-
-      {% for post in site.posts %}
-<article class="paginator">
-  <a href="{{ site.github.url }}{{ post.url }}">
-    <div class="featured-post" {% if post.image %}style="background-image:url({{ site.github.url }}/assets/img/{{ post.image }})"{% endif %}>
-      <h2><span>{{ post.title }}</span></h2>
-    </div>
-  </a>
-</article>
-
-  {% endfor %}
-
-
-
-
-
-{% for tag in site.tags %}
-  <h3>{{ tag[0] }}</h3>
-  <ul>
-    {% for post in tag[1] %}
-      <li><a href="{{ site.github.url }}{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
-{% endfor %}
 
 # Mars Perseverance Sol 1336: Right Navigation Camera (Navcam) 
 [<img src="https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01336/ids/edr/browse/ncam/NRM_1336_0785542273_300ECM_N0620634NCAM00324_03_1LUJ01_1200.jpg" alt="" />](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01336/ids/edr/browse/ncam/NRM_1336_0785542273_300ECM_N0620634NCAM00324_03_1LUJ01_1200.jpg)
