@@ -11,6 +11,9 @@ image: Europa_Clipper.png
   <source srcset="https://photojournal.jpl.nasa.gov/jpeg/PIA26446.jpg" media="(orientation: landscape)" />
   <img src="https://photojournal.jpl.nasa.gov/jpeg/PIA26446.jpg" alt="PIA26446: Conamara Color Closeup" />
 </picture>
+
+This image shows a close-up view of terrain within the region of Europa's surface named [Conamara.](https://photojournal.jpl.nasa.gov/catalog/PIA26446)
+
 ## [RelatedMissions]
 # [MISSION_NAME                    = "JUNO"](https://naif.jpl.nasa.gov/pub/naif/pds/data/jno-j_e_ss-spice-6-v1.0/jnosp_1000/catalog/mission.cat)
 [Galileo Orbiter Spacecraft Event Data Loss Document for Callisto Orbit 10](https://pds-ppi.igpp.ucla.edu/item/urn:nasa:pds:galileo-bundle:document-mission:c10_lost::1.0) [Planetary Plasma Interactions](https://pds-ppi.igpp.ucla.edu/index.jsp) 
@@ -74,3 +77,22 @@ NASA’s Europa Clipper has embarked on its long voyage to Jupiter, where it wil
 
 
 [wiki](https://en.wikipedia.org/wiki/Europa_Clipper#:~:text=It%20was%20launched%20on%20October,while%20in%20orbit%20around%20Jupiter.)
+
+Text can be **bold**, _italic_, or ~~strikethrough~~.
+
+[Link to another page](./another-page.html).
+
+There should be whitespace between paragraphs.
+
+### Why are they crashing the Galileo satellite?
+
+![The Galileo satellite](https://starchild.gsfc.nasa.gov/Images/StarChild/questions/gal_deploy.jpg)
+The Galileo satellite was launched from Space Shuttle Atlantis during the STS-34 mission in 1989. It took five years to reach Jupiter, where it has remained for the past 9 years. At one point, it released a small probe which dove into the Jovian atmosphere and sent back valuable data to scientists about the composition, speed, density, and temperature of our solar system's largest planet. Galileo has now completed 34 orbits of Jupiter and is running low on the fuel it needs to remain in contact with scientists on Earth. The decision was made to have the spacecraft plunge into the dense layers of Jupiter's atmosphere on September 20, 2003. Friction between the satellite and the atmospheric gases will cause the craft to be crushed and start to burn. In the end, it will get so hot and feel so much atmospheric pressure that it will totally disintegrate and vaporize.
+
+The Galileo satellite collected data for 6 years longer than planned. In addition to the information collected about the atmosphere of Jupiter, it detected evidence of underground salt water oceans on Jupiter's moons Europa, Ganymede and Callisto, and examined the active volcanoes on the moon Io. In fact, Galileo's own discoveries doomed it to the fate it will have this month. Given the environment found on Europa, scientists feared that if they just left the satellite in orbit, it might one day collide with that moon and contaminate it with microbes from Earth. They felt it was a chance they could not take. [STARCHilD](https://starchild.gsfc.nasa.gov/docs/StarChild/StarChild.html)
+
+### PIA23616: Galileo in High Bay 1
+White walls and scaffolding had become a common sight in the High Bay 1 clean room in [JPL's Spacecraft Assembly Facility](https://www.jpl.nasa.gov/missions/europa-clipper/) by the time the Galileo orbiter was being built. This photo from Nov. 1, 1984 shows that gowning requirements had also become more complex.
+
+Note the fully-opened high-gain antenna; an emblem on the clean room's Wall of Fame depicts it partially opened, as it was at Jupiter.
+![PIA23616: Galileo in High Bay 1](https://photojournal.jpl.nasa.gov/jpeg/PIA23616.jpg)
