@@ -17,6 +17,7 @@ tags: covid
   and watch it with your favorite video player!
 </video>
 
+<object type="application/pdf" data="https://europa.nasa.gov/internal_resources/379/ScienceInstruments_031422_Public.pdf" width="900" height="400"></object>                  
 
 https://www.nature.com/articles/d41586-024-03026-9
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nDFFi6WY7JI?si=ADcaMocDWowRL_z_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
