@@ -9,6 +9,8 @@ image: latest_1024_0193.jpg
 # Heliophysics
 The Science Mission Directorate Heliophysics Division studies the nature of the Sun, and how it influences the very nature of space 
 
+### [SOHO Real Time GIF Movies](https://soho.nascom.nasa.gov/data/realtime/gif/) @whitehouse @deptofdefense 
+
 <video controls preload="none"  poster="https://soho.nascom.nasa.gov/data/LATEST/current_eit_284small.gif">
 <source src="https://sdo.gsfc.nasa.gov/assets/img/dailymov/2024/11/26/20241126_1024_0171.mp4" type="video/mp4">
   Sorry, your browser doesn't support embedded videos, but don't worry, you can
