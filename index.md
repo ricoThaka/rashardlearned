@@ -58,6 +58,8 @@ mermaid: true
 
 {% endhighlight %}
 
+
+![m](https://photojournal.jpl.nasa.gov/jpeg/PIA25563.jpg)
 # Mars Perseverance Sol 1336: Right Navigation Camera (Navcam) 
 [<img src="https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01336/ids/edr/browse/ncam/NRM_1336_0785542273_300ECM_N0620634NCAM00324_03_1LUJ01_1200.jpg" alt="" />](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01336/ids/edr/browse/ncam/NRM_1336_0785542273_300ECM_N0620634NCAM00324_03_1LUJ01_1200.jpg)
 
