@@ -6,10 +6,8 @@
 
 html {
 
-    font: normal 12px/18px "VT323", "Lucida Sans Unicode", verdana, lucida,
-    sans-serif;
-  
-  font-family: "VT323","IBM Plex Sans", monospace;
+font-size: 1rem;
+  font-family: "IBM Plex Sans", monospace;
 
   
 background: url(https://upload.wikimedia.org/wikipedia/commons/9/94/Coronavirus._SARS-CoV-2.png) -237px 30px no-repeat fixed,
@@ -31,14 +29,13 @@ color:white;
 
 body {
   text-shadow: 0 0 5px #ffffff;
-  font-size: 130%;
   color: white;
 }
 
 img[src*="nasalogo_whitetext_redwing.svg"] {
   
   display: block;
-  height: 300px;
+ 
   margin-auto;
  }
 
@@ -65,7 +62,7 @@ a {
   margin-left: auto; 	
   /* opera does not like 'margin:20px auto' */
   /* background: #666; */
-  width: 50%; /* ie5win fudge begins */
+  
   text-align:left; 
 }
 
