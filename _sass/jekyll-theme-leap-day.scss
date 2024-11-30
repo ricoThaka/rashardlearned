@@ -442,7 +442,7 @@ strong {
 }
 
 section img {
-  height: auto;
+  max-height: auto;
   max-width: 100%;
 
 
@@ -576,7 +576,8 @@ section {
   background: url(https://landsat.gsfc.nasa.gov/wp-content/uploads/2013/12/San_Fran_new_432.jpg) no-repeat 0 0 fixed;
   /* https://developer.mozilla.org/en-US/docs/Web/CSS/background-size */
   background-size: cover;
-
+  margin-right: auto;
+  margin-left: auto; 	
   /* background: url(https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01046/ids/edr/browse/rcam/RRF_1046_0759804806_506ECM_N0495338RHAZ02420_01_295J01_800.jpg) no-repeat 0 0 fixed; */
   /* https://developer.mozilla.org/en-US/docs/Web/CSS/background-size */
 
