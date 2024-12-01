@@ -3,22 +3,7 @@ layout: default
 mermaid: true
 ---
 
-<div class='twoPanelSpread'>
-  <div class='row'>
-    <div class='panelColumn'>
-      <div class='leftColumn'>
-     <a href="https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01327/ids/edr/browse/ncam/NLF_1327_0784746083_722ECM_N0620064NCAM02327_07_195J01_1200.jpg"><img src="https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01327/ids/edr/browse/ncam/NLF_1327_0784746083_722ECM_N0620064NCAM02327_07_195J01_1200.jpg" alt=""> </a>
-        
-      </div>
-    </div>
- <div class='panelColumn'>
-      <div class='rightColumn'>
-           <a href="https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01327/ids/edr/browse/ncam/NLF_1327_0784746083_722ECM_N0620064NCAM02327_10_195J01_1200.jpg"><img src="https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01327/ids/edr/browse/ncam/NLF_1327_0784746083_722ECM_N0620064NCAM02327_10_195J01_1200.jpg" alt=""> </a>
-        
-   </div>
-    </div>
-  </div>
-</div>
+
 
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6LOWgH9NaSheAz0U4b7uQL?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
