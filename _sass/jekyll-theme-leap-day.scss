@@ -441,13 +441,7 @@ strong {
 
 }
 
-section img {
-  max-height: auto;
-  max-width: 100%;
 
-
-
-}
 
 
 .floatright img:nth-child(odd) {
@@ -559,11 +553,11 @@ dt {
 
 section {
 
-    display : flex;
+    display : block;
     flex-wrap: wrap;
     border-radius: 0px 0px 0px 0px;
     margin-top: 0px;
-  width: 85vh; 
+  width: 90vh; 
   padding: 0px;
     margin-bottom: 40px;
     margin-right: auto;
@@ -592,7 +586,13 @@ section {
   overflow-y: auto;
   }
 
-
+  section img {
+    max-height: auto;
+    width: 100%;
+  
+  
+  
+  }
 
 small {
   font-size:12px;
@@ -723,7 +723,7 @@ footer {
   section {
     border:1px solid #e5e5e5;
     border-width:1px 0;
-    padding:20px 0;
+    padding:10px 0;
     margin: 190px auto 20px;
     max-width: 600px;
   }
@@ -1047,13 +1047,6 @@ strong {
 
 }
 
-#section img {
-  max-height: auto;
-  max-width: 100%;
-
-
-
-}
 
 
 .floatright img:nth-child(odd) {
