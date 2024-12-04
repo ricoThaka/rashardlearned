@@ -7,12 +7,15 @@ image: Europa_Clipper.png
 ---
 
 [EuropaClipper - NAsaSolarSystem](https://eyes.nasa.gov/apps/solar-system/#/sc_europa_clipper)
+
 <picture>
   <source srcset="https://photojournal.jpl.nasa.gov/jpeg/PIA26446.jpg" media="(orientation: landscape)" />
   <img src="https://photojournal.jpl.nasa.gov/jpeg/PIA26446.jpg" alt="PIA26446: Conamara Color Closeup" />
 </picture>
 
 This image shows a close-up view of terrain within the region of Europa's surface named [Conamara.](https://photojournal.jpl.nasa.gov/catalog/PIA26446)
+
+<object type="application/pdf" data="https://europa.nasa.gov/internal_resources/379/ScienceInstruments_031422_Public.pdf" width="900" height="400"></object>
 
 ## [RelatedMissions]
 # [MISSION_NAME                    = "JUNO"](https://naif.jpl.nasa.gov/pub/naif/pds/data/jno-j_e_ss-spice-6-v1.0/jnosp_1000/catalog/mission.cat)
