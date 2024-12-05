@@ -3,6 +3,11 @@ layout: default
 mermaid: true
 ---
 
+
+
+![AViRiS](https://avirisng.jpl.nasa.gov/img/banner130213.png)
+# [AViRiS](https://avirisng.jpl.nasa.gov/index.html)
+
 # Pillars of Creation ([Visualization Mosaic](https://webbtelescope.org/contents/media/images/2024/020/01HZ7D2PPZVGY1H6TQGRH1N9JK?page=3&filterUUID=91dfa083-c258-4f9f-bef1-8f40c26f4c97))
 ![pillars of creation](https://stsci-opo.org/STScI-01HZ7KQC9J3EF1RVAVWMNXJBPH.png)
 
