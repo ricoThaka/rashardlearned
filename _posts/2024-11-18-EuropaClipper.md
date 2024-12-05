@@ -6,6 +6,45 @@ tags: jupiter europa
 image: Europa_Clipper.png
 ---
 
+
+# CornoaVirus Movie 4
+@nasa @whitehouse @nasa-jpl @ucla
+[![Twitter Follow](https://img.shields.io/badge/Social-JoeBiden__-blue?style=social&logo=X)](https://twitter.com/JoeBiden)
+### [Mr PResident!](https://www.whitehouse.gov/administration/president-biden/)
+Its [Rashard Iman Kelly- NASA/JPL M_R_O/JUNO](https://ricothaka.github.io/rashardlearned) I dont know how to present this data but I was torrenting at [WholeFoods](https://www.wholefoodsmarket.com/stores/avalon) and a freind seem like from JPL sent me an archive full of pictures and videos i posted what i could on [facebook](https://www.facebook.com/CaptainOfJoy/videos) , i have to make my way to my next stop, im working on this presentation and want you to know i added [Johnny Mnemonic (1995)](https://www.google.com/search?q=johnny+mnemonic+(1995)+imdb&rlz=1CASLJZ_enUS1139&oq=johnny+&gs_lcrp=EgZjaHJvbWUqBggDECMYJzIGCAAQRRg5MgoIARAuGLEDGIAEMgYIAhAjGCcyBggDECMYJzIQCAQQLhjHARixAxjRAxiABDIJCAUQABgKGIAEMgoIBhAuGLEDGIAEMhAIBxAuGK8BGMcBGIAEGI4FMgcICBAAGIAEMgoICRAuGLEDGIAE0gEINzY3NGowajSoAgCwAgA&sourceid=chrome&ie=UTF-8) because it depicts a similar event, i may have been something around the Watts Riots that got the HollywoodFlare but either way it concerned me bc with the suppression i get from playboy it feels like all movie makers do is  laugh at us and steal our work. The file titled Coronavirus movie 4 is a montage of scary tweets from ppl trapped in various [Chinese Provinces](https://yandex.com/search/?text=corona+virus+patent+wuhan&lr=20765&re=1)  please find a good copy or ask Keanu Reaves himself about the movie [Patents Prove SARS-CoV-2 Is A Manufactured Virus](https://www.citizensjournal.us/patents-prove-sars-cov-2-is-a-manufactured-virus/)
+
+
+- LoggingOut 
+->RASHARD.NASAJPL
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nDFFi6WY7JI?si=ADcaMocDWowRL_z_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2Frashard.kelly.1%2Fvideos%2F853080945491704%2F&show_text=false&width=380&t=0" width="380" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+
+[COVID 'most likely' leaked from Wuhan lab, social distancing 'not based on science,' select committee finds](https://www.foxnews.com/politics/covid-most-likely-leaked-from-wuhan-lab-social-distancing-not-based-science-select-committee-finds)
+
+
+# Johnny Mnemonic (1995)
+[imdb](https://www.imdb.com/title/tt0113481/)
+<video controls preload="none"  poster="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG5nNW11aHA4OXFscHIzN2JxdTg5ZGxyeWszZDhhbGJ3aHRtNzd3NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DIbzujHh2PCbm/giphy.webp">
+<source src="https://archive.org/download/johnny-mnemonic-1995/Johnny%20Mnemonic%20%281995%29.mp4" type="video/mp4">
+  Sorry, your browser doesn't support embedded videos, but don't worry, you can
+  <a href="https://photojournal.jpl.nasa.gov/archive/PIA26463.mp4">download it</a>
+  and watch it with your favorite video player!
+</video>
+
+ ![20060257852](https://pbs.twimg.com/media/GILy46BawAAT5XP?format=jpg&name=large)
+ ![CovidSARS](https://pbs.twimg.com/media/GILy5yQbIAAXGiB?format=jpg&name=large)
+
+# [JunoCam](https://science.nasa.gov/gallery/junocam-images/)
+[JUNO as featured in the Planetary Data System](https://photojournal.jpl.nasa.gov/mission/Juno)
+
+
+<object type="application/pdf" data="https://europa.nasa.gov/internal_resources/379/ScienceInstruments_031422_Public.pdf" width="900" height="400"></object>                  
+
+https://www.nature.com/articles/d41586-024-03026-9
+
+
 [EuropaClipper - NAsaSolarSystem](https://eyes.nasa.gov/apps/solar-system/#/sc_europa_clipper)
 
 <picture>
