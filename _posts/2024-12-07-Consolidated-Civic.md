@@ -310,9 +310,7 @@ This philosophy was exemplified in [Fallingwater (1935)](https://fallingwater.or
 ![FallingWater](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Fallingwater3.jpg/640px-Fallingwater3.jpg) [Frank Lloyd Wright's Fallingwater: Inside the House That Forever Changed Architecture](https://www.youtube.com/watch?v=mwGz58GIFYQ) 
 
 ![Helvetica](https://pbs.twimg.com/media/GQD9pDwaQAEU-bs?format=jpg&name=large)
-  <embed src="https://player.vimeo.com/video/398873298?h=86b3bc6046&color=ff0179"  />
-<p><a href="https://vimeo.com/398873298">Hevetica</a> from <a href="https://vimeo.com/pkprojects">PK-Projects</a> on <a href="https://vimeo.com">Vimeo</a>.</p> 
-<p>Helvetica the movie - English subtitles</p>
+
 
 [Seal of Los Angeles County, California](https://en.wikipedia.org/wiki/Seal_of_Los_Angeles_County,_California)
 
