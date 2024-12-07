@@ -4,6 +4,27 @@ mermaid: true
 ---
 
 
+
+
+[![Horizon of Mars](https://ia601307.us.archive.org/17/items/AILS_AC89-0437-6/AC89-0437-6.jpg)](https://ia601307.us.archive.org/17/items/AILS_AC89-0437-6/AC89-0437-6.jpg "Redirect to homepage")
+[![Horizon of Mars](https://pbs.twimg.com/media/GPgeOx9aAAADgZP?format=jpg&name=large)](https://pbs.twimg.com/media/GPgeOx9aAAADgZP?format=jpg&name=large "Redirect to homepage")
+
+### SchoolSupplies
+[ERIC ED460023: What To Make of Mars. Smithsonian in Your Classroom.](https://archive.org/details/ERIC_ED460023)
+[Degradation at the InSight Landing Site, Homestead Hollow,
+Mars: Constraints From Rock Heights and Shapes](https://web.archive.org/web/20220426130810id_/https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2021EA001953)
+
+# Now Reading 
+[Martian summer : robot arms, cowboy spacemen and my 90 days with the Phoenix Mars Mission](https://archive.org/details/martiansummerrob0000kess_m5t7)
+[A Writer's 'Martian Summer' On Earth](https://www.npr.org/2011/04/16/135464282/a-writers-martian-summer-on-earth)
+[Smithsonian book of Mars](https://archive.org/details/smithsonianbooko00boyc)
+[Mars by Birch, Robin](https://archive.org/details/mars0000birc_r5s2/page/n39/mode/2up)
+
+[The Global CTX Mosaic of Mars](https://murray-lab.caltech.edu/CTX/index.html)
+
+[![MurrayLabs](https://pbs.twimg.com/media/GL-EXkdaEAAUeYT?format=jpg&name=large)](https://pbs.twimg.com/media/GL-EXkdaEAAUeYT?format=jpg&name=large "Redirect to homepage")
+
+
 # Batman (1966) - Trailer 
 @blackgirlscode i put it on [coral](https://ricothaka.github.io/coral) an [Normani](https://ricothaka.github.io/normanikordei) page, erika i owe u but im healing...
 

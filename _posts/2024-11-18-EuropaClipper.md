@@ -6,6 +6,26 @@ tags: jupiter europa
 image: Europa_Clipper.png
 ---
 
+
+
+![CoronaVirus_NameChange](https://pbs.twimg.com/media/GVxO3btWsAASZFs?format=png&name=360x360)
+[Corona Virus Isolated From Humans](https://patentimages.storage.googleapis.com/4d/01/bb/b15d530677fb33/US7776521.pdf)
+![Corona_Virus_isolated_from_humans](https://pbs.twimg.com/media/GVxP520aIAAZTvr?format=jpg&name=large)
+
+![fox](https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9e6e9ccc-1bcc-4fe6-aa0f-86301cff9782/b0c4d81a-1f1c-40a6-b69b-1d7b61b002d4/1280x720/match/896/500/image.jpg?ve=1&tl=1)
+ [California prostitution law allows sex abuse to 'run rampant' in Los Angeles streets, victim advocates warn](https://www.foxnews.com/media/california-prostitution-law-allowing-sex-abuse-run-rampant-los-angeles-streets-victim-advocates-warn) 
+[Hola Recuperative Care](recuperativecare.org)
+![Recoup](https://pbs.twimg.com/media/FyDS9mzagAIT-lk?format=jpg&name=large)
+![us](https://pbs.twimg.com/media/GTrN0w_aQAAC5HB?format=jpg&name=large)
+[Time Machine-The Way Things Are - Los Angeles Romance Scams](https://www.youtube.com/watch?v=5YMYrB0dqoU) [De La Soul - Area](https://youtu.be/PxiVxvbb3QY?si=7rHQI7R7uavD41aR) [Magic City's 'Mr. Magic' Reveals How He Created ATL's #1 Strip Club | Sip 'N Smoke With Cam Newton](https://www.youtube.com/watch?v=0dtGIjbe0r0&t=91s) [Dregs of the City: Los Angeles | Short Documentary](https://www.youtube.com/watch?v=dineEC_05fg) [I Explored LA's Mexican GANG Neighborhoods With A Real Life CHOLA](https://www.youtube.com/watch?v=Bl_jDpTZHmI) [The Most Controversial Street in Los Angeles - Figueroa St](https://www.youtube.com/watch?v=ZTYU5-TSqgY) [Buy You Some](https://www.youtube.com/watch?v=GunGHVuztJA)
+
+<iframe src="https://www.facebook.com/plugins/video.php?height=317&href=https%3A%2F%2Fwww.facebook.com%2FCaptainOfJoy%2Fvideos%2F1817847938376855%2F&show_text=false&width=560&t=0" width="560" height="317" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+
+![Sars CoronaVirus Patent Activity](https://pbs.twimg.com/media/GHsM7f4asAAojUR?format=png&name=medium)
+![Sars CoronaVirus](https://pbs.twimg.com/media/GHsQFDdb0AAxT57?format=jpg&name=medium)
+[EUROPEAN PATENT SPECIFICATION](https://patentimages.storage.googleapis.com/1d/4e/4a/ac8914e765d645/EP3172319B1.pdf)
+![European_CoronaVirus_Patent](https://pbs.twimg.com/media/GVxM8H6aIAA2eNv?format=jpg&name=large)
+
 ## CoronaVirus Movies
 
 ![CoronaVirusMovie](https://pbs.twimg.com/media/GVx4h-ia8AAAK-G?format=jpg&name=large)
