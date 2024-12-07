@@ -7,7 +7,7 @@ image: Coronavirus._SARS-CoV-2.png
 tags: covid
 ---
 
-
+# Covid BrainDumP
 
 # EUROPEAN PATENT SPECIFICATION
 <object type="application/pdf" data="https://patentimages.storage.googleapis.com/1d/4e/4a/ac8914e765d645/EP3172319B1.pdf" width="900" height="400"></object> 
