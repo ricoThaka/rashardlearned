@@ -6,6 +6,18 @@ tags: jupiter europa
 image: Europa_Clipper.png
 ---
 
+## CoronaVirus Movies
+
+![CoronaVirusMovie](https://pbs.twimg.com/media/GVx4h-ia8AAAK-G?format=jpg&name=large)
+[Watch coronavirus 4 from Wuhan Archive](https://www.youtube.com/watch?v=nDFFi6WY7JI)
+
+<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2FCaptainOfJoy%2Fvideos%2F1771551359673180%2F&show_text=false&width=560&t=0" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+
+<iframe src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2FCaptainOfJoy%2Fvideos%2F1817848245043491%2F&show_text=false&width=252&t=0" width="252" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+
+![SARS Patent](https://pbs.twimg.com/media/GLJtC2iaoAAspTD?format=jpg&name=large)
+## [SARS-CoV-2 and Patent Activity](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8173861/)
+![Sars-cov-2 and patent activity](https://pbs.twimg.com/media/GVxwOYBa8AA7jSh?format=jpg&name=large)
 
 # CornoaVirus Movie 4
 @nasa @whitehouse @nasa-jpl @ucla
