@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<div class="post-content">
+<div class="post-content" itemscope itemtype="https://schema.org/BlogPosting>
   <h1>
     {{ page.title }}
   </h1>
@@ -13,10 +13,10 @@ layout: default
       <img src="{{ site.github.url }}/assets/img/{{ page.image }}">
     </div>
   {% endif %}
-  <main itemscope itemtype="https://schema.org/BlogPosting">
-    [BacK](./)
+
+
     {{ content }}
-  </main>
+  
   
   {% if site.hide_post_share != true %}
     {% include post-share.html %}
