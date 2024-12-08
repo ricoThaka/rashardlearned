@@ -3,8 +3,15 @@ layout: default
 mermaid: true
 ---
 
+# [GreyHound 1999](B̲e̲a̲s̲t̲i̲e̲ B̲o̲y̲s̲ | H̲e̲l̲l̲o̲ N̲a̲s̲t̲y̲)
+<video controls preload="none"  poster="https://raw.githubusercontent.com/ricoThaka/cv/refs/heads/master/assets/img/windowsNt4.png">
+<source src="https://www.nybi.org/images/closure.mp4" type="video/mp4" />
+  Download the
+  <a href="https://www.nybi.org/images/closure.mp4">MP4</a>
+  video.
+</video>
 
-
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/6eGYLONkDMja0MNtZWnRRB?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 [![Horizon of Mars](https://ia601307.us.archive.org/17/items/AILS_AC89-0437-6/AC89-0437-6.jpg)](https://ia601307.us.archive.org/17/items/AILS_AC89-0437-6/AC89-0437-6.jpg "Redirect to homepage")
 [![Horizon of Mars](https://pbs.twimg.com/media/GPgeOx9aAAADgZP?format=jpg&name=large)](https://pbs.twimg.com/media/GPgeOx9aAAADgZP?format=jpg&name=large "Redirect to homepage")
