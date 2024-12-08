@@ -2,20 +2,30 @@
 
 <SECTION>
 <style>
+
+
 .adminsquares > * {
   border: 1px solid #c9ff23;
   border-radius: 5px;
   padding: 0px;
-  flex: 1 1 100px;
+  flex-grow:1;
   overflow: hidden;
+   transition: all 300ms ease-in-out;
+  
+  &:hover {
+    flex-grow: 6.3;
+    
   }
+ 
+  
+}
 
 .adminsquares {
   display: flex;
   flex-flow: row wrap; 
+  
   padding: 15px;
   gap: 5px;
-  width:100%;
   height: auto;
 }
 
@@ -23,7 +33,6 @@
 .adminsquares img {
   width: 100%;
 }
-
 
 </style>    
 <div class="adminsquares">
