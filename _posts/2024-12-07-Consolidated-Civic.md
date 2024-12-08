@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "BAKERSFiELD"
+title:  "Los Angeles"
 published: true
-image: wasco_ast_2011191_lrg.jpg
+image: losangeles1909.jpg
 ---
 
 
