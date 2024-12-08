@@ -11,6 +11,14 @@ mermaid: true
   video.
 </video>
 
+# Closure Notice 
+New York Business Institute closed its doors permanently in April 2021. We would like to thank our graduates, test takers, clients, faculty and community for the past 24 years.
+![we-are-closed](https://www.nybi.org/images/we-are-closed.gif)
+# Student Records 
+If you attended New York Business Institute or GT Solutions Computer School between April 1997 and April 2021, and need your student records, contact us from the Contact page.
+
+If you attended New York Business School in '80s or early '90s, you did not attend our school. You most likely attended "PSI Institute - New York Business School" which was located at 269 W 40th St, New York, NY 10018. The school closed in 1992 or 1993, and NYBI is not affiliated with them.
+
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/6eGYLONkDMja0MNtZWnRRB?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 [![Horizon of Mars](https://ia601307.us.archive.org/17/items/AILS_AC89-0437-6/AC89-0437-6.jpg)](https://ia601307.us.archive.org/17/items/AILS_AC89-0437-6/AC89-0437-6.jpg "Redirect to homepage")
