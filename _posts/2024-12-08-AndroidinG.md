@@ -5,6 +5,11 @@ published: true
 image: androiding.gif
 ---
 
+<figure>
+  <figcaption>Future: `[WifiLit]()`</figcaption>
+  <audio controls src="https://archive.org/download/future-beastmode-2/2/01-WIFI%20LIT.mp3"></audio>
+  <a href="https://archive.org/download/future-beastmode-2/2/01-WIFI%20LIT.mp3"> Download audio </a>
+</figure>
 
 [Learn Termux](https://www.learntermux.tech/) - for later 
 
