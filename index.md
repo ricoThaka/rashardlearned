@@ -3,6 +3,22 @@ layout: default
 mermaid: true
 ---
 
+
+
+<div class="tupperware">
+{% for post in site.posts %}
+    
+<article itemprop="blogPosts" itemscope itemtype="https://schema.org/BlogPosting" >
+  <a href="{{ site.github.url }}{{ post.url }}">
+    <div class="featured-post" {% if post.image %}style="background-image:url({{ site.github.url }}/assets/img/{{ post.image }})"{% endif %}>
+      <h2 itemprop="headline"><span>{{ post.title }}</span></h2>
+    </div>
+  </a>
+</article>
+
+{% endfor %}
+</div>
+
 # [GreyHound 1999](B̲e̲a̲s̲t̲i̲e̲ B̲o̲y̲s̲ | H̲e̲l̲l̲o̲ N̲a̲s̲t̲y̲)
 <video controls preload="none"  poster="https://raw.githubusercontent.com/ricoThaka/cv/refs/heads/master/assets/img/windowsNt4.png">
 <source src="https://www.nybi.org/images/closure.mp4" type="video/mp4" />
@@ -24,19 +40,7 @@ If you attended New York Business School in '80s or early '90s, you did not atte
 [![Horizon of Mars](https://ia601307.us.archive.org/17/items/AILS_AC89-0437-6/AC89-0437-6.jpg)](https://ia601307.us.archive.org/17/items/AILS_AC89-0437-6/AC89-0437-6.jpg "Redirect to homepage")
 [![Horizon of Mars](https://pbs.twimg.com/media/GPgeOx9aAAADgZP?format=jpg&name=large)](https://pbs.twimg.com/media/GPgeOx9aAAADgZP?format=jpg&name=large "Redirect to homepage")
 
-<div class="tupperware">
-{% for post in site.posts %}
-    
-<article itemprop="blogPosts" itemscope itemtype="https://schema.org/BlogPosting" >
-  <a href="{{ site.github.url }}{{ post.url }}">
-    <div class="featured-post" {% if post.image %}style="background-image:url({{ site.github.url }}/assets/img/{{ post.image }})"{% endif %}>
-      <h2 itemprop="headline"><span>{{ post.title }}</span></h2>
-    </div>
-  </a>
-</article>
 
-{% endfor %}
-</div>
 
 ### SchoolSupplies
 [ERIC ED460023: What To Make of Mars. Smithsonian in Your Classroom.](https://archive.org/details/ERIC_ED460023)

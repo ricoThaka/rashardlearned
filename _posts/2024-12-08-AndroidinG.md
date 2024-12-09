@@ -6,6 +6,8 @@ image: androiding.gif
 ---
 
 
+[Learn Termux](https://www.learntermux.tech/) - for later 
+
 ![Androiding](https://i.gifer.com/UiFO.gif)
 
 # RetroArch Nightly
