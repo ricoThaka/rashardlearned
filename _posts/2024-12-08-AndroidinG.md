@@ -10,6 +10,10 @@ image: androiding.gif
 
 ![Androiding](https://i.gifer.com/UiFO.gif)
 # ANDROiD SOFTWARE
+
+# f-DROiD
+Version 1.21.1 (1021051) suggested Added on Oct 25, 2024 [APK - DOWNLOAD](https://f-droid.org/F-Droid.apk)
+[![Fdroid](https://termux.dev/assets/globals/hosts/get-it-on-fdroid.png)](https://f-droid.org/)
 ### Nova Launcher Beta
 [8.1.1 BETA Jun 13, 2024](https://novalauncher.com/beta) ? most recent 
 <date>Dec,9, 2024</date>
