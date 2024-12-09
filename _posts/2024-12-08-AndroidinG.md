@@ -16,7 +16,7 @@ image: androiding.gif
 ![Androiding](https://i.gifer.com/UiFO.gif)
 # ANDROiD SOFTWARE
 [Playstation (PSX) BIOS File Pack](https://archive.org/details/PSXbios)
-[DuckStation](https://downloads.duckstation.org/android/)
+[DuckStation](https://www.duckstation.org/android/duckstation-android.apk)
 
 <script src="https://gist.github.com/juanbrujo/cf55d223ad01927a48f9ebac9f50bdee.js"></script>
 ### Open Camera
