@@ -367,7 +367,30 @@ img[alt="whiteslavery40"] {
     max-width: 40%;
     transform: rotate(45deg);}
 
+    .tupperware > * {
+      border: 1px solid #c9ff23;
+      border-radius: 5px;
+      padding: 0px;
+      flex: 1 1 160px;
+      overflow: hidden;
+      }
+    
+    .tupperware {
+      display: flex;
+      flex-flow: row wrap; 
+      padding: 15px;
+      gap: 5px;
+      width:100%;
+      height: auto;
+    }
+    
+    
+    .tupperware img {
+      width: 100%;
+    }
 
+
+    
 h1 {
   font: bolder 14px/18px 'Martian Mono',Arial,  "Lucida Sans Unicode", verdana, lucida, sans-serif; 
 
