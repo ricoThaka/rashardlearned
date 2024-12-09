@@ -17,7 +17,7 @@ image: androiding.gif
 # ANDROiD SOFTWARE
 [Playstation (PSX) BIOS File Pack](https://archive.org/details/PSXbios)
 [DuckStation](https://www.duckstation.org/android/duckstation-android.apk)
-
+[DUCKSTATiON - GiTHUB](https://github.com/stenzek/duckstation)
 <script src="https://gist.github.com/juanbrujo/cf55d223ad01927a48f9ebac9f50bdee.js"></script>
 ### Open Camera
 Open Camera is an Open Source Camera app for Android™
