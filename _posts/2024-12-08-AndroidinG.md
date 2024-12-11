@@ -2,7 +2,7 @@
 layout: post
 title:  "Androiding"
 published: true
-image: androiding.gif
+image: Android.png
 ---
 
 <figure>

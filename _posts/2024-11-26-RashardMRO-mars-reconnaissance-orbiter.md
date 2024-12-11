@@ -2,7 +2,7 @@
 layout: post
 title:  "Mars2020 Today"
 published: true
-image: 8936_First_selfie_animation_1200.gif
+image: marscrater.png
 ---
 [<img src="https://pbs.twimg.com/media/GdW1lOYasAAKhV1?format=png&name=small />](https://pbs.twimg.com/media/GdW1lOYasAAKhV1?format=png&name=small)
 
