@@ -4,9 +4,10 @@ title:  "Los Angeles"
 published: true
 image: losangeles1909.jpg
 ---
-
-
-
+[fire nasaEO](https://earthobservatory.nasa.gov/search?q=fire) [GOES](https://www.star.nesdis.noaa.gov/goes/fulldisk_band.php?sat=G18&band=DMW&length=36&dim=0)
+[CALFiRE](https://www.fire.ca.gov/Incidents)
+![https://eoimages.gsfc.nasa.gov/images/imagerecords/153000/153821/altadenaeatonwide_aviris_20250111_lrg.jpg](https://eoimages.gsfc.nasa.gov/images/imagerecords/153000/153821/altadenaeatonwide_aviris_20250111_lrg.jpg)
+![fire](https://eoimages.gsfc.nasa.gov/images/imagerecords/153000/153722/malibuzm_oli2_20241213_lrg.jpg)
 
 # Dear MAyor ([Karen Bass](https://www.kqed.org/news/11932548/karen-bass-wins-la-mayoral-race))
 
