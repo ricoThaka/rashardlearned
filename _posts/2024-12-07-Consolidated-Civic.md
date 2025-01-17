@@ -4,6 +4,10 @@ title:  "Los Angeles"
 published: true
 image: losangeles1909.jpg
 ---
+
+
+<iframe width="640" height="360" src="https://abcnews.go.com/video/embed?id=abc_live11" allowfullscreen frameborder="0"></iframe>
+
 [fire nasaEO](https://earthobservatory.nasa.gov/search?q=fire) [GOES](https://www.star.nesdis.noaa.gov/goes/fulldisk_band.php?sat=G18&band=DMW&length=36&dim=0)
 [CALFiRE](https://www.fire.ca.gov/Incidents)
 ![https://eoimages.gsfc.nasa.gov/images/imagerecords/153000/153821/altadenaeatonwide_aviris_20250111_lrg.jpg](https://eoimages.gsfc.nasa.gov/images/imagerecords/153000/153821/altadenaeatonwide_aviris_20250111_lrg.jpg)
