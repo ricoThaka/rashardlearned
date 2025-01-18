@@ -52,7 +52,7 @@ section {
 
   display : block;
   flex-wrap: wrap;
-  border-radius: 0px 0px 0px 0px;
+  
   margin-top: 0px;
 width: 90vh; 
 padding: 0px;
@@ -63,7 +63,7 @@ padding: 0px;
   line-height: 1.5;
 /* opera does not like 'margin:20px auto' */
 /* background: #666; */
-border: 1px solid white;
+border: 1px solid #c9ff23;
 background: url(https://landsat.gsfc.nasa.gov/wp-content/uploads/2013/12/San_Fran_new_432.jpg) no-repeat 0 0 fixed;
 /* https://developer.mozilla.org/en-US/docs/Web/CSS/background-size */
 background-size: cover;
@@ -76,9 +76,8 @@ text-align:left;
 /* part 2 of 2 centering hack */
 voice-family: "\"}\"";
 voice-family:inherit;
-
-
-box-shadow: rgba(255,255,255, 0.4) 5px 5px, rgba(255,255,255, 0.3) 10px 10px, rgba(255,255,255, 0.2) 15px 15px, rgba(255,255,255, 0.1) 20px 20px, rgba(255,255,255, 0.05) 25px 25px;font-family: 'Martian Mono',-apple-system, Ariel, Verdana; 
+border-radius: 3px 3px 3px 3px;
+box-shadow: rgba(201,255,35, 0.4) 5px 5px, rgba(201,255,35, 0.3) 10px 10px, rgba(201,255,35, 0.2) 15px 15px, rgba(255,255,255, 0.1) 20px 20px, rgba(255,255,255, 0.05) 25px 25px;font-family: 'Martian Mono',-apple-system, Ariel, Verdana; 
 /* color: #c9ff23;  */
 overflow-y: auto;
 }
@@ -90,6 +89,43 @@ section img {
 
 
 }
+
+
+
+.tupperware > * {
+  border: 1px solid #c9ff23;
+  border-radius: 5px;
+  padding: 0px;
+  flex-basis: 30%;
+  flex-shrink:2;
+  flex-grow:1;
+  overflow: hidden;
+  transition: all 300ms ease-in-out;
+  
+  &:hover {
+    flex-grow: 9.3;
+    
+  }
+}
+
+
+.tupperware {
+  display: flex;
+  justify-content: space-evenly;
+  flex-flow: row wrap; 
+  padding: 15px;
+  gap: 5px;
+  height: auto;
+}
+
+.tupperware img {
+  width: 100%;
+}
+
+
+
+
+
 svg { width:100%;}
 .jumpmenu {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 14px; background-color: #0dd9c4; color: #3df28b; border: #3df28b; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; font-weight: bold
   ;}
@@ -366,39 +402,6 @@ img[alt="whiteslavery"] {
 img[alt="whiteslavery40"] {
     max-width: 40%;
     transform: rotate(45deg);}
-
-
-    .tupperware > * {
-      border: 1px solid #c9ff23;
-      border-radius: 5px;
-      padding: 0px;
-      flex-basis: 30%;
-      flex-shrink:2;
-      flex-grow:1;
-      overflow: hidden;
-      transition: all 300ms ease-in-out;
-      
-      &:hover {
-        flex-grow: 9.3;
-        
-      }
-    }
-    
-    
-    .tupperware {
-      display: flex;
-      justify-content: space-evenly;
-      flex-flow: row wrap; 
-      padding: 15px;
-      gap: 5px;
-      height: auto;
-    }
-    
-    .tupperware img {
-      width: 100%;
-    }
-    
-    
 
     /*
     .tupperware > * {
