@@ -1,4 +1,10 @@
 
+---
+layout: post
+title:  "Compiling"
+published: true
+image: losangeles1909.jpg
+---
 
 ![EroS](https://nssdc.gsfc.nasa.gov/imgcat/hires/nea_0125971425_mos.jpg)
 

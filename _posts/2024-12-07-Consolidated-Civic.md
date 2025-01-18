@@ -12,6 +12,11 @@ image: losangeles1909.jpg
 [CALFiRE](https://www.fire.ca.gov/Incidents)
 ![https://eoimages.gsfc.nasa.gov/images/imagerecords/153000/153821/altadenaeatonwide_aviris_20250111_lrg.jpg](https://eoimages.gsfc.nasa.gov/images/imagerecords/153000/153821/altadenaeatonwide_aviris_20250111_lrg.jpg)
 ![fire](https://eoimages.gsfc.nasa.gov/images/imagerecords/153000/153722/malibuzm_oli2_20241213_lrg.jpg)
+[Building a Smarter Los Angeles: Data, Blockchain, and the Smart City By Ted Ross (MoCo Los Angeles)](https://www.youtube.com/watch?v=Z1nZTbnaZg0) [Smart LA SMartCities PDF](https://ita.lacity.gov/sites/g/files/wph1626/files/2021-05/SmartLA2028%20-%20Smart%20City%20Strategy.pdf)
+
+![SMART_LA](https://pbs.twimg.com/media/GWGyklMWwAEuQdB?format=jpg&name=large)
+
+
 
 # Dear MAyor ([Karen Bass](https://www.kqed.org/news/11932548/karen-bass-wins-la-mayoral-race))
 

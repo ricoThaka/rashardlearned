@@ -1,8 +1,26 @@
 ---
 layout: post
 title:  "Welcome to Jekyll!"
-published: false
+published: true
+
 ---
+
+
+### Liquid soil moisture content (0-10cm) monthly 0.125 deg. [NLDAS Model NLDAS_NOAH0125_M v2.0] kg m-2
+Selected date range was 2000-Jan - 2024-Dec. Title reflects the date range of the granules that went into making this result. @nasa-jpl @blackgirlscode plots by -#rashard [giovanni](https://ntrs.nasa.gov/api/citations/20190001147/downloads/20190001147.pdf) [Search](https://ntrs.nasa.gov/search)
+<video controls >
+
+  <source src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/refs/heads/free-nav/assets/video/NLDAS_NOAH0125_M_2_0_SMLiq_0_10cm_animationVideofast.webm"  type="video/webm" />
+  
+  
+    Download the
+
+  <a href="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/refs/heads/free-nav/assets/video/NLDAS_NOAH0125_M_2_0_SMLiq_0_10cm_animationVideo.webm">MP4</a>
+  video.
+</video>
+
+
+
 
 # Welcome
 
