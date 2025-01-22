@@ -9,7 +9,7 @@ image: losangeles1909.jpg
 [related](https://x.com/RicoThaka/status/1857877744341889403)
 # Google Earth Data Import Video
 <iframe src="https://archive.org/embed/screen-recording-2025-01-22-3.01.40-pm" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-
+[LosAngelesFire](https://x.com/RicoThaka/status/1882206772829766132)
 <iframe width="640" height="360" src="https://abcnews.go.com/video/embed?id=abc_live11" allowfullscreen frameborder="0"></iframe>
 
 ![Aviris](https://aviris.jpl.nasa.gov/images/aviris_text2.png)
