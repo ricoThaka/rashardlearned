@@ -6,7 +6,7 @@ image: losangeles1909.jpg
 ---
 
 ![t](https://pbs.twimg.com/media/GhA3LA8WsAAUVZS?format=jpg&name=medium)
-
+[related](https://x.com/RicoThaka/status/1857877744341889403)
 # Google Earth Data Import Video
 <iframe src="https://archive.org/embed/screen-recording-2025-01-22-3.01.40-pm" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
