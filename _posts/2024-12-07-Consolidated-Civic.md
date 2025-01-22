@@ -8,6 +8,12 @@ image: losangeles1909.jpg
 
 <iframe width="640" height="360" src="https://abcnews.go.com/video/embed?id=abc_live11" allowfullscreen frameborder="0"></iframe>
 
+![Aviris](https://aviris.jpl.nasa.gov/images/aviris_text2.png)
+![EMitAviris](https://avirisng.jpl.nasa.gov/img/AVIRIS-NG_spectroscopy_overview_image.png)
+![ERT-2](https://www.nasa.gov/wp-content/uploads/2023/02/314080main_ED08-0053-07_full.jpg)
+NASA operates two Lockheed ER-2 Earth Resources aircraft as flying laboratories in the Airborne Science Program under the Agency’s Science Mission Directorate. The aircraft are based at NASA’s Armstrong Flight Research Center Building 703 in Palmdale, California [RelatedTweet - GreenHouseGasMapping](https://x.com/RicoThaka/status/1881890920720986462) [AvirisOrder](https://x.com/RicoThaka/status/1881888364871467110) [AViRiS-HOME](https://aviris.jpl.nasa.gov/index.html) [DATAPORTAL](https://popo.jpl.nasa.gov/mmgis-aviris/?mission=AVIRIS&site=ert&mapLon=-93.95507812500001&mapLat=40.245991504199026&mapZoom=4&globeLon=undefined&globeLat=undefined&globeZoom=undefined&panePercents=0,100,0&on=e4d92155-7af4-4ec3-ba97-1d6e4639c5d6$1.00,d068949c-3a21-45c0-8aa9-7dd29bfc8adc$1.00&startTime=2006-04-01T00:00:01.000Z&endTime=2024-02-15T21:27:02.653Z) [NASAJPL-AViRiS-DATAPORTAL](https://aviris.jpl.nasa.gov/dataportal/)
+
+![USGS](https://www.usgs.gov/themes/custom/usgs_tantalum/usgs_logo.png)
 [fire nasaEO](https://earthobservatory.nasa.gov/search?q=fire) [GOES](https://www.star.nesdis.noaa.gov/goes/fulldisk_band.php?sat=G18&band=DMW&length=36&dim=0)
 [CALFiRE](https://www.fire.ca.gov/Incidents)
 ![https://eoimages.gsfc.nasa.gov/images/imagerecords/153000/153821/altadenaeatonwide_aviris_20250111_lrg.jpg](https://eoimages.gsfc.nasa.gov/images/imagerecords/153000/153821/altadenaeatonwide_aviris_20250111_lrg.jpg)
