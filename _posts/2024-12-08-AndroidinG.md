@@ -5,6 +5,13 @@ published: true
 image: Android.png
 ---
 
+![DOS_SSF2t](https://pbs.twimg.com/media/Gh7CW57bgAAnVSM?format=png&name=medium)
+![Win95](https://pbs.twimg.com/media/Gh7HFHHbwAIe-QB?format=png&name=medium)
+![DOS](https://pbs.twimg.com/media/Gh7HFHEaMAAVr9M?format=png&name=medium)
+[RelatedTweet](https://x.com/RicoThaka/status/1882160690858958887)
+![Artifacts_RetroArch_JPG](https://pbs.twimg.com/media/Gh7CW55aIAAdZA2?format=jpg&name=medium)
+[RelatedTweeT](https://x.com/RicoThaka/status/1882156673227501885)
+
 <figure>
   <figcaption>Future: `[WifiLit]()`</figcaption>
   <audio controls src="https://archive.org/download/future-beastmode-2/2/01-WIFI%20LIT.mp3"></audio>

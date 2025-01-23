@@ -13,7 +13,7 @@
    transition: all 300ms ease-in-out;
   
   &:hover {
-    flex-grow: 6.3;
+    flex-grow: 2;
     
   }
  

@@ -5,12 +5,25 @@ published: true
 image: losangeles1909.jpg
 ---
 
+
+<iframe width="640" height="360" src="https://abcnews.go.com/video/embed?id=abc_live11" allowfullscreen frameborder="0"></iframe>
+
 ![t](https://pbs.twimg.com/media/GhA3LA8WsAAUVZS?format=jpg&name=medium)
 [related](https://x.com/RicoThaka/status/1857877744341889403)
 # Google Earth Data Import Video
-<iframe src="https://archive.org/embed/screen-recording-2025-01-22-3.01.40-pm" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-[LosAngelesFire](https://x.com/RicoThaka/status/1882206772829766132) [https://x.com/RicoThaka/status/1882203952944730255](https://x.com/RicoThaka/status/1882203952944730255)
-<iframe width="640" height="360" src="https://abcnews.go.com/video/embed?id=abc_live11" allowfullscreen frameborder="0"></iframe>
+<iframe src="https://archive.org/embed/screen-recording-2025-01-22-3.01.40-pm" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe> 
+
+[TutorialFiles](https://x.com/RicoThaka/status/1882203952944730255) [MoreMaps! FirMS KML](https://firms.modaps.eosdis.nasa.gov/active_fire/#firms-kml)
+[LosAngelesFire](https://x.com/RicoThaka/status/1882206772829766132) [GoogleEarth](https://earth.google.com/web/@0,-0.3811001,0a,22251752.77375655d,35y,0h,0t,0r/data=CgRCAggBOgMKATBCAggBSg0I____________ARAA) [KML_ViEWER -https://kmlviewer.nsspot.net/ -](https://kmlviewer.nsspot.net/) [BurningHills](https://x.com/RicoThaka/status/1882197967530242306)
+
+
+```shell
+wget -e robots=off -m -np -R .html,.tmp -nH --cut-dirs=3 "https://nrt3.modaps.eosdis.nasa.gov/archive/geoMetaMODIS/61/TERRA/2025/" --header "Authorization: Bearer INSERT_EDL_TOKEN_HERE" -P .
+```
+
+![SandieaGoFire](https://pbs.twimg.com/media/Gh7ug4DbsAABrmi?format=jpg&name=large)
+
+
 
 ![Aviris](https://aviris.jpl.nasa.gov/images/aviris_text2.png)
 ![EMitAviris](https://avirisng.jpl.nasa.gov/img/AVIRIS-NG_spectroscopy_overview_image.png)
