@@ -8,6 +8,116 @@ image: losangeles1909.jpg
 
 <iframe width="640" height="360" src="https://abcnews.go.com/video/embed?id=abc_live11" allowfullscreen frameborder="0"></iframe>
 
+
+
+# Nitrogen Dioxide over the Continental US and Los Angeles
+
+ Upon zooming into [Southern California](https://www.ca.gov/), finer details of pollution gradients are clearly visible over the [Los Angeles](https://lacounty.gov/)/[San Diego](https://www.sandiegocounty.gov/) region. Here the concentration of [NO2](https://so2.gsfc.nasa.gov/no2/no2_index.html) is shown in shades of light blue to dark pink/purple indicating values ranging from low to high [by CindyStarr](https://svs.gsfc.nasa.gov/search/?people=Cindy%20Starr)
+ [Global Nitrogen Dioxide Monitoring Home Page](https://so2.gsfc.nasa.gov/no2/no2_index.html) @nasa @nasa-jpl @blackgirlscode @normani hi 
+
+
+<video  controls poster="https://svs.gsfc.nasa.gov/vis/a000000/a005100/a005132/CONUS_LA_NO2_comp_v0086.03000_print.jpg">
+  <source src="https://svs.gsfc.nasa.gov/vis/a000000/a005100/a005132/CONUS_LA_NO2_comp_v0086_1080p60.mp4" type="video/mp4" />
+  
+  Your browser does not support the video tag.
+</video>
+
+
+# Reductions in Pollution Associated with Decreased Fossil Fuel Use Resulting from COVID-19 Mitigation
+**Released** Friday, April 24, 2020
+>Written by: [Bryan Duncan](https://svs.gsfc.nasa.gov/search/?people=Bryan%20Duncan)
+Over the past several weeks, the United States has seen significant reductions in air pollution over its major metropolitan areas. Similar reductions in air pollution have been observed in other regions of the world. [READMORE **Released** Friday, April 24, 2020](https://svs.gsfc.nasa.gov/4810/#media_group_320045)
+![LOS ANGELES](https://svs.gsfc.nasa.gov/vis/a000000/a004800/a004810/no2-LA.gif)
+![CALiFORNiA](https://svs.gsfc.nasa.gov/vis/a000000/a004800/a004810/los_angeles_w_cities_2015_2019_print.jpg)
+
+
+![Georgia](https://svs.gsfc.nasa.gov/vis/a000000/a004800/a004810/SE_image_2015_2019_w_cities_print.jpg)
+![molecul;es](https://svs.gsfc.nasa.gov/vis/a000000/a004800/a004810/cbar_NO2_2019_white_text.png)
+![DroughtMon](https://pbs.twimg.com/media/GiWG1hjbMAA55ug?format=jpg&name=large)
+[RelatedTweet](https://x.com/RicoThaka/status/1884060535731486825) [DroughtMonitor - CURRENT_MAP - CLiCK HERE!](https://droughtmonitor.unl.edu/CurrentMap.aspx) [California Reservoirs Rise from Drought to Deluge](https://earthobservatory.nasa.gov/images/90062/california-reservoirs-rise-from-drought-to-deluge)
+
+# GRACE and GRACE-FO track California's land water changes
+
+[MAiN](https://grace.jpl.nasa.gov/resources/42/grace-and-grace-fo-track-californias-land-water-changes/) [RELATEDTWEET](https://x.com/RicoThaka/status/1882498520122548642)
+<video  controls >
+  <source src="https://grace.jpl.nasa.gov/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdFVDIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--dac742eb358a1539ab5b7e1125a3bf91e5348bbc/grace_ca_water_2002-2023_seasonal_2160p.mp4?disposition=inline" type="video/mp4" />
+  
+  Your browser does not support the video tag.
+</video>
+
+
+NASA’s Gravity Recovery and Climate Experiment (GRACE, 2002 - 2017) mission, and its successor GRACE Follow-On (launched in 2018), map month-to-month changes in Earth's gravity field resulting from the movement of mass, such as water, near the surface of the planet. This animation shows how the total amount of water (snow, surface water, soil moisture, and groundwater) varies in space and time, with the passage of dry seasons and wet seasons as well as with flooding, drought, and transport due to water management. Blue colors represent wetter than average conditions (relative to 2004-2010), while red colors represent drier than average conditions. The yellow line in the graph on the left shows the evolution of the long-term inter-annual variations for the area outlined in yellow on the map (note: the average seasonal cycle has been removed).
+
+The [Sacramento](https://earthobservatory.nasa.gov/images/8235/sacramento-san-joaquin-river-delta) and [San Joaquin River](https://www.jpl.nasa.gov/images/pia24691-sacramento-san-joaquin-river-delta-ca/) [basins](https://eoimages.gsfc.nasa.gov/images/imagerecords/8000/8235/sacramento_ast_2006120_lrg.jpg) are outlined [in](https://grace.jpl.nasa.gov/resources/21/occultmov/) yellow, and rivers and tributaries are shown as blue lines. The basins include California's Central Valley, the most productive agricultural region in the U.S. Repeated drought conditions and increased water use in California have led to a long-term decline of terrestrial water, interspersed with above-average precipitation periods (e.g., 2015/2016, 2022/2023) that have allowed some recovery of the land water storage.
+
+Credit
+NASA / JPL
+
+![ASTER](https://d2pn8kiwq2w21t.cloudfront.net/original_images/jpegPIA24691.jpg)
+
+# Science On a Sphere: 4 Years of Biosphere
+[RelatedTweet](https://x.com/RicoThaka/status/1884022696700436660)
+By monitoring the color of reflected light via satellite, scientists can determine how successfully plant life is photosynthesizing. A measurement of photosynthesis is essentially a measurement of successful growth, and growth means successful use of ambient carbon. This data visualization represents four years' worth of data taken primarily by Suomi NPP/VIIRS satellite sensors, showing the abundance of life both on land and in the sea[READMORE](https://svs.gsfc.nasa.gov/5474/)
+![OceanChlorophyll](https://svs.gsfc.nasa.gov/vis/a000000/a005400/a005474/ndvi_cbar.png)
+
+<video  controls >
+  <source src="https://svs.gsfc.nasa.gov/vis/a000000/a005400/a005474/bio4sos.4096x2048p30.mp4" type="video/mp4" />
+  
+  Your browser does not support the video tag.
+</video>
+
+![OceanChlorophyll](https://svs.gsfc.nasa.gov/vis/a000000/a005400/a005474/chloro_cbar.png)
+![OceanChlorophyll](https://svs.gsfc.nasa.gov/vis/a000000/a005400/a005474/ndvi_cbar.png)
+
+
+[Levee Break Floods Central California](https://earthobservatory.nasa.gov/images/13298/levee-break-floods-central-california)
+
+
+
+# SEX TRAFFICKING IN ATLANTA GEORGIA❗️I ALMOST GOT KIDNAPPED❗️(story time😱🤬)ROSE POCAHONTAS @nasa @blackgirlscode @nasa-jpl @whitehouse
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoZJYTRZgpc?si=2fyjp_ZlRTUFmPxh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+![Earth](https://pbs.twimg.com/media/GiF1j4uaUAAqBSc?format=jpg&name=large)
+[Related](https://x.com/BubbleGumPop626/status/1882915417666290042)
+
+<figure itemscope itemtype="https://schema.org/AudioObject">
+  <figcaption>Babylon:OUTKAST_ATLiens</figcaption>
+  <audio controls src="https://archive.org/download/outkast-atliens-25th-anniversary-edition-flac-24-bits/OutKast%20-%20ATLiens%20-%2008%20-%20Babylon.mp3"  itemprop="contentUrl"></audio>
+  <a href="https://archive.org/download/outkast-atliens-25th-anniversary-edition-flac-24-bits/OutKast%20-%20ATLiens%20-%2008%20-%20Babylon.mp3"> Download audio </a>
+</figure>
+
+![SS5](https://pbs.twimg.com/media/F-WC6onaYAASdpW?format=jpg&name=medium)
+![mood](https://pbs.twimg.com/media/GiLh88Kb0AAHt7f?format=jpg&name=medium)
+[Related](https://x.com/thakasartu/status/1883316255337435418) [Related](https://x.com/thakasartu/status/1883317419839791116)
+[RelatedTweet](https://x.com/RicoThaka/status/1883963513389080963) [RelatedTweet](https://x.com/RicoThaka/status/1883958827730735173)
+![FloodDanger](https://pbs.twimg.com/media/GiUuRgKaYAEiOqz?format=jpg&name=large)
+![FloodHazard](https://pbs.twimg.com/media/GiUuRc-aYAMSCkv?format=jpg&name=large)
+
+<h1 itemscope itemtype="https://schema.org/MusicGroup" itemprop="name" > 
+
+<a itemscope itemtype="https://schema.org/AudioObject" href="https://archive.org/download/outkast-atliens-25th-anniversary-edition-flac-24-bits" alt="25th Anniversary Edition">OutKast - ATLiens</a>  <a href="https://xiph.org/flac/" >[FLAC 24 Bits]</a> </h1>
+
+<iframe itemscope itemtype="https://schema.org/AudioObject" src="https://archive.org/embed/outkast-atliens-25th-anniversary-edition-flac-24-bits" width="500" height="60" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+<picture itemscope itemtype="https://schema.org/MusicRecording">
+  <source itemscope itemtype="https://schema.org/AudioObject" media="(width: 100%)" srcset="https://i.discogs.com/huWj20LMWJ4H4K3WaH3Fu5_rdl-2H1zHX1hcpjYmQD4/rs:fit/g:sm/q:90/h:380/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzU1/MzYtMTY5MTEzMDQ5/Ni03OTk2LmpwZWc.jpeg" />
+  <source media="(width: 100%)" srcset="https://pbs.twimg.com/media/GiUv9d7aYAQWEVU?format=jpg&name=small" />
+  <img src="https://pbs.twimg.com/media/GiUv9d7aYAQWEVU?format=jpg&name=small" alt="Chris standing up holding his daughter Elva" />
+</picture>
+
+<video  controls >
+  <source src="https://ia902205.us.archive.org/18/items/screen-20250127-031342/screen-20250127-031342.mp4" type="video/mp4" />
+  
+  Your browser does not support the video tag.
+</video>
+
+![FLAC](https://wiki.xiph.org/images/e/e9/FLAC_Logo_Transparent.svg)
+[WATER_TABLE](https://x.com/RicoThaka/status/1883249912495898766)
+# [National Water Information System: Mapper](https://maps.waterdata.usgs.gov/mapper/index.html)
+![m](https://pbs.twimg.com/media/GiKlnO6aAAAQZf2?format=jpg&name=small) 
+
+
+
 ![t](https://pbs.twimg.com/media/GhA3LA8WsAAUVZS?format=jpg&name=medium)
 [related](https://x.com/RicoThaka/status/1857877744341889403)
 # Google Earth Data Import Video
