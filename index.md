@@ -25,7 +25,7 @@ mermaid: true
   <a href="https://archive.org/download/future-beastmode-2/2/01-WIFI%20LIT.mp3"> Download audio </a>
 </figure>
 
-# [GreyHound 1999](B̲e̲a̲s̲t̲i̲e̲ B̲o̲y̲s̲ | H̲e̲l̲l̲o̲ N̲a̲s̲t̲y̲)
+# [GreyHound 1999](https://www.facebook.com/CaptainOfJoy/photos)
 <video controls preload="none"  poster="https://raw.githubusercontent.com/ricoThaka/cv/refs/heads/master/assets/img/windowsNt4.png">
 <source src="https://www.nybi.org/images/closure.mp4" type="video/mp4" />
   Download the
