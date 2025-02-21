@@ -19,6 +19,8 @@ mermaid: true
 {% endfor %}
 </div>
 
+
+![Manessah](https://pbs.twimg.com/media/GUphYsra8AAVXLW?format=jpg&name=large) @blackgirlscode @nasa-jpl 
 <figure>
   <figcaption>Future: `[WifiLit]()`</figcaption>
   <audio controls src="https://archive.org/download/future-beastmode-2/2/01-WIFI%20LIT.mp3"></audio>

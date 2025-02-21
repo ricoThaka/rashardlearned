@@ -5,9 +5,15 @@ published: true
 image: Android.png
 ---
 
+
+[Architecture overview](https://source.android.com/docs/core/architecture#architecture)
+The Android Open Source Project (AOSP) is publicly available and modifiable Android source code. Anyone can download and modify AOSP for their device. AOSP provides a complete and fully functional implementation of the Android mobile platform.
+![Architecture](https://source.android.com/static/images/android-stack.svg)
+![WinDowS95](https://pbs.twimg.com/media/Gj8aQ3abwAA9mfc?format=png&name=medium)
 ![DOS_SSF2t](https://pbs.twimg.com/media/Gh7CW57bgAAnVSM?format=png&name=medium)
 ![Win95](https://pbs.twimg.com/media/Gh7HFHHbwAIe-QB?format=png&name=medium)
 ![DOS](https://pbs.twimg.com/media/Gh7HFHEaMAAVr9M?format=png&name=medium)
+![HoriZONs](https://pbs.twimg.com/media/Gj8aX7JbgAAGaJs?format=png&name=medium)
 [RelatedTweet](https://x.com/RicoThaka/status/1882160690858958887)
 ![Artifacts_RetroArch_JPG](https://pbs.twimg.com/media/Gh7CW55aIAAdZA2?format=jpg&name=medium)
 [RelatedTweeT](https://x.com/RicoThaka/status/1882156673227501885)
